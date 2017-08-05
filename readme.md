@@ -1,8 +1,9 @@
 Home Value Analysis
 ================
 
-### Useful links deal with home value data
+### Useful links dealing with home value data
 
+-   zillow [home value data](https://www.zillow.com/research/data/)
 -   python
 -   [네이버 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver-land-crawling.ipynb)
 -   [조인스랜드 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/joins-land-crawling.ipynb)
