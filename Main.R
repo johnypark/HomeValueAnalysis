@@ -2,7 +2,7 @@
 #Method str and head
 df.all<-read.csv("City_Zhvi_3bedroom.csv")
 
-region.info<-c("New York","NY")
+region.info<-c("Hollywood","FL")
 #time 1800 08/04/17
 getPrice_bycity(df.all,region.info)
 plotPrice_bycity(df.all,region.info)

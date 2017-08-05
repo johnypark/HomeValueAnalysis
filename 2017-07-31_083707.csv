@@ -1,0 +1,218 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+61 Ovington Ave,Edison,NJ,08817,269900,968.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Ovington-Ave-Edison-NJ-08817/39065233_zpid/
+1 Glenville Rd,Edison,NJ,08817,285500,1208.0,3.0,1.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Glenville-Rd-Edison-NJ-08817/39081372_zpid/
+9 Melville Rd,Edison,NJ,08817,335000,1423.0,4.0,2.0,1,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/9-Melville-Rd-Edison-NJ-08817/39067884_zpid/
+128 Winthrop Rd,Edison,NJ,08817,249900,NA,3.0,1.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/128-Winthrop-Rd-Edison-NJ-08817/39082799_zpid/
+8 Baxter Rd,Edison,NJ,08817,224900,NA,3.0,1.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Baxter-Rd-Edison-NJ-08817/39082829_zpid/
+58 Hillcrest Ave,Edison,NJ,08817,269900,NA,4.0,1.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/58-Hillcrest-Ave-Edison-NJ-08817/39065753_zpid/
+15 Cherry St,Edison,NJ,08817,499900,NA,4.0,3.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Cherry-St-Edison-NJ-08817/82170866_zpid/
+1735 Waterford Dr,Edison,NJ,08817,239900,NA,2.0,2.0,1,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1735-Waterford-Dr-Edison-NJ-08817/39063303_zpid/
+78 Fairview Ave,Edison,NJ,08817,369000,NA,3.0,1.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/78-Fairview-Ave-Edison-NJ-08817/39079798_zpid/
+9 Dolores Dr,Edison,NJ,08817,499900,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Dolores-Dr-Edison-NJ-08817/39062718_zpid/
+31 York Dr APT 4B,Edison,NJ,08817,40000,NA,1.0,1.0,4,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/31-York-Dr-APT-4B-Edison-NJ-08817/2109994124_zpid/
+212 Washington Ave,Edison,NJ,08817,255000,1426.0,4.0,2.0,7,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/212-Washington-Ave-Edison-NJ-08817/55544128_zpid/
+34 Rodak Cir,Edison,NJ,08817,439000,2085.0,4.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-Rodak-Cir-Edison-NJ-08817/39066611_zpid/
+91 Redwood Ave,Edison,NJ,08817,183000,829.0,NA,NA,10,Auction,http://www.zillow.com/homes/for_sale//homedetails/91-Redwood-Ave-Edison-NJ-08817/39067141_zpid/
+55 Knollwood Rd W,Edison,NJ,08817,449900,2160.0,4.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Knollwood-Rd-W-Edison-NJ-08817/39081178_zpid/
+21 Hillcrest Ave,Edison,NJ,08817,335000,NA,3.0,2.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Hillcrest-Ave-Edison-NJ-08817/39065840_zpid/
+524 Waterford Dr # 5524,Edison,NJ,08817,257000,NA,2.0,2.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/524-Waterford-Dr-5524-Edison-NJ-08817/2093397754_zpid/
+524 Waterford Dr,Edison,NJ,08817,257000,NA,2.0,2.0,9,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/524-Waterford-Dr-Edison-NJ-08817/39063043_zpid/
+26 Paul St,Edison,NJ,08817,224999,NA,3.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Paul-St-Edison-NJ-08817/39067222_zpid/
+33 Heathcote Ave,Edison,NJ,08817,315000,NA,3.0,1.0,6,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-Heathcote-Ave-Edison-NJ-08817/39066439_zpid/
+29 Knollwood Rd W,Edison,NJ,08817,249900,NA,3.0,1.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/29-Knollwood-Rd-W-Edison-NJ-08817/39081165_zpid/
+27 Fairfax Rd,Edison,NJ,08817,335000,1396.0,3.0,2.0,6,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Fairfax-Rd-Edison-NJ-08817/39082563_zpid/
+83 Foyer St,Edison,NJ,08817,255000,NA,2.0,1.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/83-Foyer-St-Edison-NJ-08817/39068589_zpid/
+82 Brookhill Ave,Edison,NJ,08817,295000,1200.0,3.0,3.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/82-Brookhill-Ave-Edison-NJ-08817/39063769_zpid/
+25 Nancy Cir,Edison,NJ,08817,330000,NA,3.0,2.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-Nancy-Cir-Edison-NJ-08817/39068716_zpid/
+68 Suydam Ave,Edison,NJ,08817,307999,NA,3.0,1.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Suydam-Ave-Edison-NJ-08817/39064181_zpid/
+37 Market St,Edison,NJ,08817,349000,1486.0,3.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/37-Market-St-Edison-NJ-08817/39067394_zpid/
+1203 Woodhaven Dr # 1203,Edison,NJ,08817,242000,1104.0,2.0,2.0,29,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1203-Woodhaven-Dr-1203-Edison-NJ-08817/2093653010_zpid/
+4 Sine Rd,Edison,NJ,08817,192900,1000.0,3.0,1.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Sine-Rd-Edison-NJ-08817/39068279_zpid/
+8 Dayton Rd,Edison,NJ,08817,515000,2350.0,5.0,4.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Dayton-Rd-Edison-NJ-08817/39082143_zpid/
+22 Kearny Ave,Edison,NJ,08817,259700,966.0,3.0,2.0,30,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/22-Kearny-Ave-Edison-NJ-08817/55544342_zpid/
+32 Windsor Rd,Edison,NJ,08817,169500,NA,3.0,1.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Windsor-Rd-Edison-NJ-08817/39082219_zpid/
+5805 Hana Rd,Edison,NJ,08817,300000,1672.0,3.0,3.0,25,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/5805-Hana-Rd-Edison-NJ-08817/39062023_zpid/
+5 Columbus Ave,Edison,NJ,08817,180000,NA,3.0,1.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Columbus-Ave-Edison-NJ-08817/39068911_zpid/
+110 Oakland Ave,Edison,NJ,08817,439900,NA,4.0,3.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-Oakland-Ave-Edison-NJ-08817/39066981_zpid/
+4 Caldwell Rd,Edison,NJ,08817,176000,1026.0,NA,NA,26,Auction,http://www.zillow.com/homes/for_sale//homedetails/4-Caldwell-Rd-Edison-NJ-08817/39081635_zpid/
+153 College Dr # 153,Edison,NJ,08817,175000,1188.0,3.0,2.0,27,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/153-College-Dr-153-Edison-NJ-08817/2093642966_zpid/
+7 Dill Ct,Edison,NJ,08817,220000,1000.0,3.0,1.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Dill-Ct-Edison-NJ-08817/39081232_zpid/
+89 Silver Lake Ave,Edison,NJ,08817,181000,1024.0,NA,NA,26,Auction,http://www.zillow.com/homes/for_sale//homedetails/89-Silver-Lake-Ave-Edison-NJ-08817/39069057_zpid/
+203 Central Ave,Edison,NJ,08817,425000,1800.0,3.0,2.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/203-Central-Ave-Edison-NJ-08817/39064289_zpid/
+22 Westminster Pl,Edison,NJ,08817,248000,1396.0,3.0,NA,29,Auction,http://www.zillow.com/homes/for_sale//homedetails/22-Westminster-Pl-Edison-NJ-08817/39068739_zpid/
+23 Ovington Ave,Edison,NJ,08817,316000,900.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Ovington-Ave-Edison-NJ-08817/39065640_zpid/
+17 Ridge Rd,Edison,NJ,08817,328600,1892.0,3.0,3.0,30,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/17-Ridge-Rd-Edison-NJ-08817/39067867_zpid/
+22 Magee Rd,Edison,NJ,08817,358000,1428.0,3.0,3.0,29,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Magee-Rd-Edison-NJ-08817/39081097_zpid/
+19 Karen Pl,Edison,NJ,08817,459000,1547.0,3.0,2.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Karen-Pl-Edison-NJ-08817/39062832_zpid/
+38 Markham Rd,Edison,NJ,08817,539900,900.0,5.0,3.0,25,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/38-Markham-Rd-Edison-NJ-08817/39081577_zpid/
+62 Preston St,Edison,NJ,08817,629900,3400.0,5.0,5.0,19,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/62-Preston-St-Edison-NJ-08817/39066049_zpid/
+131 Vineyard Rd,Edison,NJ,08817,279000,NA,4.0,1.0,17,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/131-Vineyard-Rd-Edison-NJ-08817/39066284_zpid/
+154 Winthrop Rd,Edison,NJ,08817,299000,1008.0,3.0,1.0,13,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Winthrop-Rd-Edison-NJ-08817/39082622_zpid/
+45 Sharon Ave,Edison,NJ,08817,329000,1369.0,3.0,2.0,27,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/45-Sharon-Ave-Edison-NJ-08817/39067663_zpid/
+68 Suydam Ave,Edison,NJ,08817,307999,NA,3.0,1.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Suydam-Ave-Edison-NJ-08817/39064181_zpid/
+37 Market St,Edison,NJ,08817,349000,1486.0,3.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/37-Market-St-Edison-NJ-08817/39067394_zpid/
+1203 Woodhaven Dr # 1203,Edison,NJ,08817,242000,1104.0,2.0,2.0,29,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1203-Woodhaven-Dr-1203-Edison-NJ-08817/2093653010_zpid/
+4 Sine Rd,Edison,NJ,08817,192900,1000.0,3.0,1.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Sine-Rd-Edison-NJ-08817/39068279_zpid/
+8 Dayton Rd,Edison,NJ,08817,515000,2350.0,5.0,4.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Dayton-Rd-Edison-NJ-08817/39082143_zpid/
+22 Kearny Ave,Edison,NJ,08817,259700,966.0,3.0,2.0,30,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/22-Kearny-Ave-Edison-NJ-08817/55544342_zpid/
+32 Windsor Rd,Edison,NJ,08817,169500,NA,3.0,1.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Windsor-Rd-Edison-NJ-08817/39082219_zpid/
+5805 Hana Rd,Edison,NJ,08817,300000,1672.0,3.0,3.0,25,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/5805-Hana-Rd-Edison-NJ-08817/39062023_zpid/
+5 Columbus Ave,Edison,NJ,08817,180000,NA,3.0,1.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Columbus-Ave-Edison-NJ-08817/39068911_zpid/
+110 Oakland Ave,Edison,NJ,08817,439900,NA,4.0,3.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-Oakland-Ave-Edison-NJ-08817/39066981_zpid/
+4 Caldwell Rd,Edison,NJ,08817,176000,1026.0,NA,NA,26,Auction,http://www.zillow.com/homes/for_sale//homedetails/4-Caldwell-Rd-Edison-NJ-08817/39081635_zpid/
+153 College Dr # 153,Edison,NJ,08817,175000,1188.0,3.0,2.0,27,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/153-College-Dr-153-Edison-NJ-08817/2093642966_zpid/
+7 Dill Ct,Edison,NJ,08817,220000,1000.0,3.0,1.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Dill-Ct-Edison-NJ-08817/39081232_zpid/
+89 Silver Lake Ave,Edison,NJ,08817,181000,1024.0,NA,NA,26,Auction,http://www.zillow.com/homes/for_sale//homedetails/89-Silver-Lake-Ave-Edison-NJ-08817/39069057_zpid/
+203 Central Ave,Edison,NJ,08817,425000,1800.0,3.0,2.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/203-Central-Ave-Edison-NJ-08817/39064289_zpid/
+22 Westminster Pl,Edison,NJ,08817,248000,1396.0,3.0,NA,29,Auction,http://www.zillow.com/homes/for_sale//homedetails/22-Westminster-Pl-Edison-NJ-08817/39068739_zpid/
+23 Ovington Ave,Edison,NJ,08817,316000,900.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Ovington-Ave-Edison-NJ-08817/39065640_zpid/
+17 Ridge Rd,Edison,NJ,08817,328600,1892.0,3.0,3.0,30,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/17-Ridge-Rd-Edison-NJ-08817/39067867_zpid/
+22 Magee Rd,Edison,NJ,08817,358000,1428.0,3.0,3.0,29,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Magee-Rd-Edison-NJ-08817/39081097_zpid/
+19 Karen Pl,Edison,NJ,08817,459000,1547.0,3.0,2.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Karen-Pl-Edison-NJ-08817/39062832_zpid/
+38 Markham Rd,Edison,NJ,08817,539900,900.0,5.0,3.0,25,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/38-Markham-Rd-Edison-NJ-08817/39081577_zpid/
+62 Preston St,Edison,NJ,08817,629900,3400.0,5.0,5.0,19,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/62-Preston-St-Edison-NJ-08817/39066049_zpid/
+131 Vineyard Rd,Edison,NJ,08817,279000,NA,4.0,1.0,17,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/131-Vineyard-Rd-Edison-NJ-08817/39066284_zpid/
+154 Winthrop Rd,Edison,NJ,08817,299000,1008.0,3.0,1.0,13,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Winthrop-Rd-Edison-NJ-08817/39082622_zpid/
+45 Sharon Ave,Edison,NJ,08817,329000,1369.0,3.0,2.0,27,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/45-Sharon-Ave-Edison-NJ-08817/39067663_zpid/
+2311 Edward Stec Blvd # 2311,Edison,NJ,08837,314900,NA,2.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2311-Edward-Stec-Blvd-2311-Edison-NJ-08837/2093769338_zpid/
+25 Lafayette Ave,Edison,NJ,08837,319900,NA,3.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-Lafayette-Ave-Edison-NJ-08837/39077661_zpid/
+57 Judson St,Edison,NJ,08837,127000,900.0,1.0,1.0,2,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/57-Judson-St-Edison-NJ-08837/2110760061_zpid/
+2838 Edward Stec Blvd # 2838,Edison,NJ,08837,345000,1381.0,3.0,2.0,1,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2838-Edward-Stec-Blvd-2838-Edison-NJ-08837/2093319493_zpid/
+2838 Edward Stec Blvd # 38,Edison,NJ,08837,345000,1381.0,3.0,2.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2838-Edward-Stec-Blvd-38-Edison-NJ-08837/2093318677_zpid/
+131 Liddle Ave # B,Edison,NJ,08837,164900,NA,2.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/131-Liddle-Ave-B-Edison-NJ-08837/2097142075_zpid/
+11 Bodnarik Rd,Edison,NJ,08837,550000,2260.0,4.0,3.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Bodnarik-Rd-Edison-NJ-08837/39083002_zpid/
+131 Liddle Ave,Edison,NJ,08837,164900,942.0,2.0,1.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/131-Liddle-Ave-Edison-NJ-08837/90185891_zpid/
+2838 Edward Stec Blvd,Edison,NJ,08837,345000,1381.0,3.0,2.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2838-Edward-Stec-Blvd-Edison-NJ-08837/90184545_zpid/
+31 Gold St,Edison,NJ,08837,275000,NA,3.0,1.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/31-Gold-St-Edison-NJ-08837/39078562_zpid/
+179 Liddle Ave # C,Edison,NJ,08837,157900,NA,1.0,1.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/179-Liddle-Ave-C-Edison-NJ-08837/2097880573_zpid/
+35 Liddle Ave,Edison,NJ,08837,179900,767.0,2.0,1.0,4,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/35-Liddle-Ave-Edison-NJ-08837/82169903_zpid/
+4 Peake Rd,Edison,NJ,08837,449000,1600.0,4.0,3.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Peake-Rd-Edison-NJ-08837/39083114_zpid/
+57 Judson St APT 4B,Edison,NJ,08837,127000,NA,1.0,1.0,10,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/57-Judson-St-APT-4B-Edison-NJ-08837/2093426296_zpid/
+6 Grandview Ave,Edison,NJ,08837,325000,1794.0,3.0,2.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Grandview-Ave-Edison-NJ-08837/39083053_zpid/
+89 Liddle Ave # B,Edison,NJ,08837,152900,613.0,1.0,1.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/89-Liddle-Ave-B-Edison-NJ-08837/2093414802_zpid/
+15 Edgegrove St,Edison,NJ,08837,349000,1808.0,4.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Edgegrove-St-Edison-NJ-08837/39078048_zpid/
+89 Liddle Ave,Edison,NJ,08837,152900,613.0,1.0,1.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/89-Liddle-Ave-Edison-NJ-08837/88942944_zpid/
+27 Judson St,Edison,NJ,08837,54950,850.0,1.0,1.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Judson-St-Edison-NJ-08837/2110193529_zpid/
+199 Evergreen Rd APT 12A,Edison,NJ,08837,120500,1100.0,2.0,1.0,23,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/199-Evergreen-Rd-APT-12A-Edison-NJ-08837/2101985796_zpid/
+161 Evergreen Rd APT 4A,Edison,NJ,08837,58900,900.0,1.0,1.0,18,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/161-Evergreen-Rd-APT-4A-Edison-NJ-08837/2108769971_zpid/
+172 Evergreen Rd APT 24B,Edison,NJ,08837,65000,900.0,1.0,1.0,15,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/172-Evergreen-Rd-APT-24B-Edison-NJ-08837/2104961787_zpid/
+26 Judson St APT 8A,Edison,NJ,08837,54000,NA,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Judson-St-APT-8A-Edison-NJ-08837/2093511751_zpid/
+101 Liddle Ave,Edison,NJ,08837,125000,NA,1.0,1.0,19,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Liddle-Ave-Edison-NJ-08837/88940581_zpid/
+192 Evergreen Rd APT 5B,Edison,NJ,08837,89589,NA,1.0,1.0,23,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/192-Evergreen-Rd-APT-5B-Edison-NJ-08837/2093601353_zpid/
+101 Liddle Ave,Edison,NJ,08837,125000,NA,1.0,1.0,19,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Liddle-Ave-Edison-NJ-08837/88940581_zpid/
+192 Evergreen Rd APT 5B,Edison,NJ,08837,89589,NA,1.0,1.0,23,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/192-Evergreen-Rd-APT-5B-Edison-NJ-08837/2093601353_zpid/
+172 Evergreen Rd APT 8A,Edison,NJ,08837,57900,900.0,1.0,1.0,19,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/172-Evergreen-Rd-APT-8A-Edison-NJ-08837/2093546734_zpid/
+18 Seventh St,Edison,NJ,08837,328000,2287.0,2.0,1.5,16,Auction,http://www.zillow.com/homes/for_sale//homedetails/18-Seventh-St-Edison-NJ-08837/39077922_zpid/
+11 Eileen Way,Edison,NJ,08837,449000,1866.0,5.0,2.0,26,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Eileen-Way-Edison-NJ-08837/39077431_zpid/
+64 Harmon Rd,Edison,NJ,08837,428900,NA,4.0,3.0,20,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/64-Harmon-Rd-Edison-NJ-08837/39083229_zpid/
+119 Liddle Ave BLDG B,Edison,NJ,08837,154900,696.0,1.0,1.0,25,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/119-Liddle-Ave-BLDG-B-Edison-NJ-08837/2093626700_zpid/
+2324 Edward Stec Blvd,Edison,NJ,08837,325000,1554.0,2.0,2.0,16,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2324-Edward-Stec-Blvd-Edison-NJ-08837/104320851_zpid/
+71 Dartmouth St,Edison,NJ,08837,279900,NA,3.0,2.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/71-Dartmouth-St-Edison-NJ-08837/39077989_zpid/
+100 Beechwood Ave,Edison,NJ,08837,474900,NA,4.0,3.0,26,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Beechwood-Ave-Edison-NJ-08837/39077479_zpid/
+27 Judson St APT 3B,Edison,NJ,08837,56500,900.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Judson-St-APT-3B-Edison-NJ-08837/2094161067_zpid/
+197 Evergreen Rd APT 12B,Edison,NJ,08837,54900,1000.0,1.0,1.0,NA,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/197-Evergreen-Rd-APT-12B-Edison-NJ-08837/2129209391_zpid/
+2334 Edward Stec Blvd,Edison,NJ,08837,269000,1653.0,3.0,2.0,32,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2334-Edward-Stec-Blvd-Edison-NJ-08837/104320192_zpid/
+57 Judson St APT 1B,Edison,NJ,08837,54000,NA,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/57-Judson-St-APT-1B-Edison-NJ-08837/2095675138_zpid/
+57 Judson St APT 14A,Edison,NJ,08837,59900,NA,1.0,1.0,NA,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/57-Judson-St-APT-14A-Edison-NJ-08837/2128139833_zpid/
+44 Judson St APT 12B,Edison,NJ,08837,65000,NA,1.0,1.0,NA,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Judson-St-APT-12B-Edison-NJ-08837/2098810983_zpid/
+26 Judson St APT 3A,Edison,NJ,08837,52500,900.0,1.0,1.0,144,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Judson-St-APT-3A-Edison-NJ-08837/2095028527_zpid/
+161 Evergreen Rd APT 13B,Edison,NJ,08837,65000,NA,1.0,1.0,81,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/161-Evergreen-Rd-APT-13B-Edison-NJ-08837/2094300124_zpid/
+27 Judson St APT 4A,Edison,NJ,08837,67000,NA,1.0,1.0,121,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Judson-St-APT-4A-Edison-NJ-08837/2100489491_zpid/
+43 Liddle Ave # A,Edison,NJ,08837,149900,NA,1.0,1.0,296,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-Liddle-Ave-A-Edison-NJ-08837/2096794862_zpid/
+149 Liddle Ave # B,Edison,NJ,08837,149900,613.0,1.0,1.0,66,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/149-Liddle-Ave-B-Edison-NJ-08837/2094120924_zpid/
+170 Evergreen Rd APT 2B,Edison,NJ,08837,54800,900.0,1.0,1.0,91,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/170-Evergreen-Rd-APT-2B-Edison-NJ-08837/2104530825_zpid/
+26 Lehigh Ave,Edison,NJ,08837,203000,840.0,2.0,1.0,202,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/26-Lehigh-Ave-Edison-NJ-08837/61834670_zpid/
+167 Liddle Ave # C,Edison,NJ,08837,164900,NA,1.0,1.0,128,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/167-Liddle-Ave-C-Edison-NJ-08837/2094860300_zpid/
+61 Liddle Ave BLDG A,Edison,NJ,08837,119900,696.0,1.0,1.0,232,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Liddle-Ave-BLDG-A-Edison-NJ-08837/2099281958_zpid/
+613 Edison Glen Ter,Edison,NJ,08837,NA,991.0,1.0,1.0,241,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/613-Edison-Glen-Ter-Edison-NJ-08837/64795403_zpid/
+168 Parsonage Rd,Edison,NJ,08837,679900,3000.0,4.0,4.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/168-Parsonage-Rd-Edison-NJ-08837/39077363_zpid/
+23 Burchard St S,Edison,NJ,08837,191000,714.0,2.0,1.0,202,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/23-Burchard-St-S-Edison-NJ-08837/39078531_zpid/
+189 Jackson Ave,Edison,NJ,08837,114000,864.0,NA,NA,177,Auction,http://www.zillow.com/homes/for_sale//homedetails/189-Jackson-Ave-Edison-NJ-08837/39078331_zpid/
+161 Evergreen Rd APT 6B,Edison,NJ,08837,55000,NA,1.0,1.0,NA,Home For Sale,http://www.zillow.com/homes/for_sale//homedetails/161-Evergreen-Rd-APT-6B-Edison-NJ-08837/2093752519_zpid/
+5 Rowan Ct,Edison,NJ,08837,249900,NA,3.0,1.0,40,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Rowan-Ct-Edison-NJ-08837/39083078_zpid/
+28 Elmwood Ave,Edison,NJ,08837,171000,1521.0,0,NA,425,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/28-Elmwood-Ave-Edison-NJ-08837/39077540_zpid/
+32 Lehigh Ave,Edison,NJ,08837,209000,952.0,3.0,1.0,676,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/32-Lehigh-Ave-Edison-NJ-08837/61834671_zpid/
+26 Lehigh Ave,Edison,NJ,08837,166000,NA,3.0,1.0,202,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/26-Lehigh-Ave-Edison-NJ-08837/61834669_zpid/
+17 Waltuma Ave,Edison,NJ,08837,206000,1020.0,NA,NA,250,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/17-Waltuma-Ave-Edison-NJ-08837/64796936_zpid/
+1 Bodnarik Rd,Edison,NJ,08837,499000,2960.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Bodnarik-Rd-Edison-NJ-08837/39083007_zpid/
+133 Gross Ave,Edison,NJ,08837,149900,864.0,2.0,1.0,146,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-Gross-Ave-Edison-NJ-08837/39078397_zpid/
+157 Howard Ave,Edison,NJ,08837,266000,1188.0,4.0,2.0,307,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/157-Howard-Ave-Edison-NJ-08837/39079164_zpid/
+54 Main St,Edison,NJ,08837,241000,994.0,3.0,1.5,87,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/54-Main-St-Edison-NJ-08837/39079052_zpid/
+4 Winslow Rd,Edison,NJ,08837,409900,1580.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Winslow-Rd-Edison-NJ-08837/39078854_zpid/
+16 Main St,Edison,NJ,08837,100000,6098.0,NA,NA,93,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Main-St-Edison-NJ-08837/39079117_zpid/
+1604 Edison Glen Ter # 1604,Edison,NJ,08837,174999,NA,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1604-Edison-Glen-Ter-1604-Edison-NJ-08837/2093793461_zpid/
+86 Elmwood Ave,Edison,NJ,08837,253000,1222.0,4.0,2.5,81,Auction,http://www.zillow.com/homes/for_sale//homedetails/86-Elmwood-Ave-Edison-NJ-08837/39077589_zpid/
+922 Edison Glen Ter,Edison,NJ,08837,210000,1291.0,2.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/922-Edison-Glen-Ter-Edison-NJ-08837/39066801_zpid/
+177 Liddle Ave # C,Edison,NJ,08837,194500,800.0,1.0,1.0,442,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/177-Liddle-Ave-C-Edison-NJ-08837/2098609906_zpid/
+149 Liddle Ave,Edison,NJ,08837,149900,613.0,1.0,1.0,67,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/149-Liddle-Ave-Edison-NJ-08837/88938227_zpid/
+8 Martin Ave,Edison,NJ,08837,574900,2225.0,4.0,3.0,75,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8-Martin-Ave-Edison-NJ-08837/39079062_zpid/
+1309 Edison Glen Ter # 1309,Edison,NJ,08837,190000,900.0,1.0,1.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1309-Edison-Glen-Ter-1309-Edison-NJ-08837/2093875731_zpid/
+265 Grandview Ave,Edison,NJ,08837,355900,2350.0,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/265-Grandview-Ave-Edison-NJ-08837/39080399_zpid/
+167 Morris Ave,Edison,NJ,08837,59000,NA,NA,NA,151,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/167-Morris-Ave-Edison-NJ-08837/2103667098_zpid/
+1095 King Georges Post Rd,Edison,NJ,08837,579900,NA,0,NA,333,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1095-King-Georges-Post-Rd-Edison-NJ-08837/39078793_zpid/
+61 Liddle Ave,Edison,NJ,08837,119900,696.0,1.0,1.0,233,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Liddle-Ave-Edison-NJ-08837/82171266_zpid/
+167 Liddle Ave,Edison,NJ,08837,164900,653.0,1.0,1.0,129,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/167-Liddle-Ave-Edison-NJ-08837/104321101_zpid/
+119 Liddle Ave,Edison,NJ,08837,154900,696.0,1.0,1.0,117,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/119-Liddle-Ave-Edison-NJ-08837/88940902_zpid/
+67 Waltuma Ave,Edison,NJ,08837,569999,NA,4.0,2.5,207,New Construction,http://www.zillow.com/homes/for_sale//homedetails/67-Waltuma-Ave-Edison-NJ-08837/2095822629_zpid/
+29 Jefferson Ave,Edison,NJ,08837,419900,NA,3.0,2.0,51,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/29-Jefferson-Ave-Edison-NJ-08837/39078695_zpid/
+148 Fourth St,Edison,NJ,08837,258000,NA,2.0,1.0,37,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/148-Fourth-St-Edison-NJ-08837/39077821_zpid/
+177 Liddle Ave,Edison,NJ,08837,194500,800.0,1.0,1.0,293,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/177-Liddle-Ave-Edison-NJ-08837/114472807_zpid/
+43 Liddle Ave,Edison,NJ,08837,149900,NA,1.0,1.0,293,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-Liddle-Ave-Edison-NJ-08837/88942241_zpid/
+35 Dorothy Ave,Edison,NJ,08837,614999,822.0,5.0,3.0,207,New Construction,http://www.zillow.com/homes/for_sale//homedetails/35-Dorothy-Ave-Edison-NJ-08837/39079087_zpid/
+141 Liddle Ave,Edison,NJ,08837,165000,NA,1.0,1.0,44,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/141-Liddle-Ave-Edison-NJ-08837/90184930_zpid/
+199 Liddle Ave,Edison,NJ,08837,157900,613.0,1.0,1.0,369,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/199-Liddle-Ave-Edison-NJ-08837/120860800_zpid/
+85 Elmwood Ave,Edison,NJ,08837,359900,1375.0,3.0,2.0,488,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/85-Elmwood-Ave-Edison-NJ-08837/39077604_zpid/
+15 Adelphi Ct,Edison,NJ,08837,349000,1578.0,3.0,2.0,108,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Adelphi-Ct-Edison-NJ-08837/39083065_zpid/
+1096 Amboy Ave,Edison,NJ,08837,324000,NA,3.0,2.0,113,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1096-Amboy-Ave-Edison-NJ-08837/39077646_zpid/
+85 Melbloum Ln,Edison,NJ,08837,199900,8642.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/85-Melbloum-Ln-Edison-NJ-08837/2099699828_zpid/
+37 Scott Ave,Edison,NJ,08837,419000,1878.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/37-Scott-Ave-Edison-NJ-08837/39078892_zpid/
+41 Dorothy Ave,Edison,NJ,08837,649999,NA,5.0,4.0,207,New Construction,http://www.zillow.com/homes/for_sale//homedetails/41-Dorothy-Ave-Edison-NJ-08837/2095822627_zpid/
+116 Main St,Edison,NJ,08837,127000,10001.0,NA,NA,166,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/116-Main-St-Edison-NJ-08837/2095291788_zpid/
+39 Dorothy Ave,Edison,NJ,08837,649999,NA,5.0,4.0,207,New Construction,http://www.zillow.com/homes/for_sale//homedetails/39-Dorothy-Ave-Edison-NJ-08837/2095824748_zpid/
+Hoover Ave,Edison,NJ,08837,NA,1015.0,NA,1.0,44,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467617_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Bernard Ave,Edison,NJ,08837,NA,1378.0,NA,2.0,45,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467637_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Jackson Ave,Edison,NJ,08837,NA,864.0,NA,2.0,55,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467619_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Seventh St,Edison,NJ,08837,NA,2287.0,NA,1.0,55,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/Seventh-St-Edison-NJ-08837/210170301_zpid/
+Whelan St,Edison,NJ,08837,NA,960.0,NA,NA,44,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239683461_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Edison Glen Ter,Edison,NJ,08837,NA,1248.0,NA,NA,44,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239683466_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Roosevelt Ter,Edison,NJ,08837,NA,1440.0,NA,1.0,38,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467652_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Melbloum Ln,Edison,NJ,08837,NA,2760.0,NA,NA,41,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239688156_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Macarthur Dr,Edison,NJ,08837,NA,864.0,NA,2.0,145,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/220833111_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Edison Glen Ter,Edison,NJ,08837,NA,1248.0,NA,NA,632,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467363_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Grandview Ave,Edison,NJ,08837,NA,816.0,NA,1.0,640,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467373_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Edison Glen Ter,Edison,NJ,08837,NA,1248.0,NA,NA,326,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467517_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Main St,Edison,NJ,08837,NA,1189.0,NA,1.0,179,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467537_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Hazelwood Ave,Edison,NJ,08837,NA,1366.0,NA,1.0,236,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/178467606_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Beechwood Ave,Edison,NJ,08837,NA,2198.0,NA,2.0,380,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467607_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Beechwood Ave,Edison,NJ,08837,NA,1522.0,NA,2.0,560,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467608_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Elmwood Ave,Edison,NJ,08837,NA,1222.0,NA,1.0,151,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467609_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Elmwood Ave,Edison,NJ,08837,NA,1011.0,NA,1.0,342,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467610_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Woodbridge Ave,Edison,NJ,08837,NA,1394.0,NA,2.0,297,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/178467613_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Woodbridge Ave,Edison,NJ,08837,NA,960.0,NA,1.0,115,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467614_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Evergreen Ave,Edison,NJ,08837,NA,1232.0,NA,2.0,297,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/178467615_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Starkin Rd,Edison,NJ,08837,NA,1040.0,NA,1.0,80,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467616_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Waltuma Ave,Edison,NJ,08837,NA,1020.0,NA,1.0,476,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467620_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Albany St,Edison,NJ,08837,NA,672.0,NA,1.0,94,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467621_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Grandview Ave,Edison,NJ,08837,NA,1020.0,NA,1.0,476,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467624_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Jefferson Ave,Edison,NJ,08837,NA,1679.0,NA,2.0,123,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467629_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Ginger Dr,Edison,NJ,08837,NA,2534.0,NA,2.0,482,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467632_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Dorothy Ave,Edison,NJ,08837,NA,1733.0,NA,1.0,250,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467636_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Main St,Edison,NJ,08837,NA,1478.0,NA,NA,207,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467638_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Roosevelt Blvd,Edison,NJ,08837,NA,1188.0,NA,NA,314,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/178467651_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Yuro Dr,Edison,NJ,08837,NA,1020.0,NA,1.0,427,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467688_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Gales Rd,Edison,NJ,08837,NA,1688.0,NA,1.0,122,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467689_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Bodnarik Rd,Edison,NJ,08837,NA,2506.0,NA,2.0,165,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467690_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Grandview Ave,Edison,NJ,08837,NA,1794.0,NA,2.0,695,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467692_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Bodnarik Rd,Edison,NJ,08837,NA,2363.0,NA,2.0,129,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467693_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Harmon Rd,Edison,NJ,08837,NA,1506.0,NA,1.0,142,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467694_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Safran Ave,Edison,NJ,08837,NA,842.0,NA,1.0,53,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/210170263_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Sixth St,Edison,NJ,08837,NA,900.0,NA,1.0,189,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/219334871_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Dorothy Ave,Edison,NJ,08837,NA,2104.0,NA,NA,308,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467627_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Heman St,Edison,NJ,08837,NA,2534.0,NA,2.0,647,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467631_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Larchmont Rd,Edison,NJ,08837,NA,1592.0,NA,2.0,74,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467691_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Hoover Ave,Edison,NJ,08837,NA,1003.0,NA,1.0,65,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/190895391_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Edison Glen Ter,Edison,NJ,08837,NA,1291.0,NA,NA,66,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467518_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Seventh St,Edison,NJ,08837,NA,1268.0,NA,1.0,74,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467611_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Woodbridge Ave,Edison,NJ,08837,NA,1530.0,NA,2.0,87,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/205121193_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Waltuma Ave,EDISON,NJ,08837,NA,NA,NA,NA,160,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/205125535_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Martin Ave,Edison,NJ,08837,NA,1330.0,NA,1.0,74,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178467640_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"

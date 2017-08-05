@@ -1,0 +1,331 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+90 Montadale Dr,Princeton,NJ,08540,1995000,9362.0,6.0,9.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/90-Montadale-Dr-Princeton-NJ-08540/39009797_zpid/
+2 Acken Ln,Princeton,NJ,08540,369900,1489.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Acken-Ln-Princeton-NJ-08540/39867786_zpid/
+3 Hemlock Ct,Princeton,NJ,08540,814000,4102.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hemlock-Ct-Princeton-NJ-08540/39006103_zpid/
+44 Scribner Ct,Princeton,NJ,08540,1249000,3536.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Scribner-Ct-Princeton-NJ-08540/39012803_zpid/
+61 Cleveland Ln,Princeton,NJ,08540,1450000,3205.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Cleveland-Ln-Princeton-NJ-08540/39007378_zpid/
+7 Allison Way,Princeton,NJ,08540,628888,3349.0,4.0,4.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Allison-Way-Princeton-NJ-08540/55637902_zpid/
+1303 Canal,Franklin,NJ,08540,710000,3207.0,3.0,3.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1303-Canal-Franklin-NJ-08540/2093348873_zpid/
+20 Taft Ct,Princeton,NJ,08540,385000,NA,3.0,3.0,3,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Taft-Ct-Princeton-NJ-08540/39904059_zpid/
+276 Gallup Rd,Princeton,NJ,08540,1255000,3112.0,5.0,5.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/276-Gallup-Rd-Princeton-NJ-08540/39013237_zpid/
+139 Sayre Dr,Princeton,NJ,08540,444444,1355.0,2.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/139-Sayre-Dr-Princeton-NJ-08540/39151783_zpid/
+3 Hornor Ln,Princeton,NJ,08540,650000,1480.0,3.0,2.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Hornor-Ln-Princeton-NJ-08540/39008401_zpid/
+84 Old Rd,Princeton,NJ,08540,1,NA,NA,NA,5,Auction,http://www.zillow.com/homes/for_sale//homedetails/84-Old-Rd-Princeton-NJ-08540/2118837590_zpid/
+3 Tall Timbers Dr,Princeton,NJ,08540,480000,4278.0,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Tall-Timbers-Dr-Princeton-NJ-08540/39006323_zpid/
+313 Sayre Dr,Princeton,NJ,08540,699000,2760.0,3.0,4.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/313-Sayre-Dr-Princeton-NJ-08540/39151921_zpid/
+8 Skyfield Dr,Princeton,NJ,08540,559000,3230.0,4.0,3.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Skyfield-Dr-Princeton-NJ-08540/38994823_zpid/
+87 Sayre,Plainsboro,NJ,08540,499000,2070.0,3.0,3.0,8,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/87-Sayre-Plainsboro-NJ-08540/2093402213_zpid/
+99 Heather Ln,Princeton,NJ,08540,2099999,4758.0,4.0,5.0,9,New Construction,http://www.zillow.com/homes/for_sale//homedetails/99-Heather-Ln-Princeton-NJ-08540/52626473_zpid/
+87 Sayre Dr,Princeton,NJ,08540,499000,2070.0,3.0,3.0,8,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/87-Sayre-Dr-Princeton-NJ-08540/39151742_zpid/
+229 Mercer St,Princeton,NJ,08540,1125000,2206.0,3.0,2.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/229-Mercer-St-Princeton-NJ-08540/39008670_zpid/
+18 Coriander Dr,Princeton,NJ,08540,514888,2036.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Coriander-Dr-Princeton-NJ-08540/39174054_zpid/
+66 Scarlet Oak Dr,Princeton,NJ,08540,416000,NA,3.0,3.0,10,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Scarlet-Oak-Dr-Princeton-NJ-08540/59930064_zpid/
+35 Trewbridge Ct,Princeton,NJ,08540,710000,2364.0,3.0,4.0,10,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-Trewbridge-Ct-Princeton-NJ-08540/55348099_zpid/
+32 Blackstone Dr,Princeton,NJ,08540,649900,2258.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Blackstone-Dr-Princeton-NJ-08540/39903370_zpid/
+285 Moore St,Princeton,NJ,08540,949000,2614.0,4.0,3.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/285-Moore-St-Princeton-NJ-08540/39011885_zpid/
+11 Honeyman St,Princeton,NJ,08540,450000,2325.0,3.0,2.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Honeyman-St-Princeton-NJ-08540/39867759_zpid/
+74 Grover Ave,Princeton,NJ,08540,740000,1756.0,4.0,3.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/74-Grover-Ave-Princeton-NJ-08540/39012214_zpid/
+11 Cherry Valley Rd,Princeton,NJ,08540,560000,1326.0,3.0,3.0,7,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Cherry-Valley-Rd-Princeton-NJ-08540/87968276_zpid/
+127 Sayre Dr,Princeton,NJ,08540,447000,1355.0,2.0,4.0,9,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/127-Sayre-Dr-Princeton-NJ-08540/39151770_zpid/
+4102 Route 27,Princeton,NJ,08540,358300,NA,4.0,2.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4102-Route-27-Princeton-NJ-08540/39173702_zpid/
+30 Scarlet Oak Dr,Princeton,NJ,08540,397000,1640.0,3.0,3.0,20,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Scarlet-Oak-Dr-Princeton-NJ-08540/64613988_zpid/
+17 Tree Swallow Dr,Princeton,NJ,08540,669000,2244.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/17-Tree-Swallow-Dr-Princeton-NJ-08540/71833053_zpid/
+68 Treetops Cir,Princeton,NJ,08540,669000,3391.0,4.0,3.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Treetops-Cir-Princeton-NJ-08540/64463009_zpid/
+12 Woodfield Ct,Princeton,NJ,08540,639900,3391.0,4.0,4.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-Woodfield-Ct-Princeton-NJ-08540/64895250_zpid/
+545 Sayre Dr,Princeton,NJ,08540,448000,1664.0,2.0,3.0,12,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/545-Sayre-Dr-Princeton-NJ-08540/2093463724_zpid/
+301 Trinity Ct APT 11,Princeton,NJ,08540,229000,1008.0,2.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/301-Trinity-Ct-APT-11-Princeton-NJ-08540/39034415_zpid/
+104 Heritage Blvd APT 5,Princeton,NJ,08540,279900,1138.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/104-Heritage-Blvd-APT-5-Princeton-NJ-08540/39034508_zpid/
+22 Exeter Ct,Princeton,NJ,08540,529999,2200.0,3.0,4.0,23,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Exeter-Ct-Princeton-NJ-08540/39034756_zpid/
+31 Van Kirk Rd,Princeton,NJ,08540,499750,2718.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/31-Van-Kirk-Rd-Princeton-NJ-08540/39005673_zpid/
+52 Mccomb Rd,Princeton,NJ,08540,565000,1536.0,2.0,3.0,17,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/52-Mccomb-Rd-Princeton-NJ-08540/39010201_zpid/
+35 Sergeant St,Princeton,NJ,08540,818000,1813.0,3.0,3.0,16,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-Sergeant-St-Princeton-NJ-08540/39008987_zpid/
+24 NW E Countryside Dr,South Brunswick,NJ,08540,418500,1527.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-NW-E-Countryside-Dr-South-Brunswick-NJ-08540/2093584188_zpid/
+135 Crestview Dr,Princeton,NJ,08540,1175000,3274.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/135-Crestview-Dr-Princeton-NJ-08540/39010134_zpid/
+16 Honeybrook Dr,Princeton,NJ,08540,649500,1824.0,4.0,3.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Honeybrook-Dr-Princeton-NJ-08540/52625046_zpid/
+5 Fringe Tree Ct,Princeton,NJ,08540,325000,1573.0,2.0,2.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Fringe-Tree-Ct-Princeton-NJ-08540/55551346_zpid/
+10 Sergeant St,Princeton,NJ,08540,1299000,NA,4.0,2.0,21,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Sergeant-St-Princeton-NJ-08540/39008960_zpid/
+122 N Barrow Pl,Princeton,NJ,08540,425000,1678.0,2.0,3.0,19,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/122-N-Barrow-Pl-Princeton-NJ-08540/39035285_zpid/
+931 Lawrenceville Rd,Princeton,NJ,08540,659000,1930.0,3.0,2.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/931-Lawrenceville-Rd-Princeton-NJ-08540/39013168_zpid/
+16 Boudinot St,Princeton,NJ,08540,2195000,NA,4.0,5.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Boudinot-St-Princeton-NJ-08540/52626399_zpid/
+28 Scott Ln,Princeton,NJ,08540,924900,1792.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-Scott-Ln-Princeton-NJ-08540/39008282_zpid/
+199 Snowden Ln,Princeton,NJ,08540,1899000,1320.0,5.0,6.0,18,New Construction,http://www.zillow.com/homes/for_sale//homedetails/199-Snowden-Ln-Princeton-NJ-08540/39012342_zpid/
+74 Russell Rd,Princeton,NJ,08540,1149000,2639.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/74-Russell-Rd-Princeton-NJ-08540/39013191_zpid/
+566 Sayre Dr,Princeton,NJ,08540,499000,1886.0,3.0,3.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/566-Sayre-Dr-Princeton-NJ-08540/2093532244_zpid/
+47 Constitution Hl W,Princeton,NJ,08540,1100000,NA,3.0,3.0,23,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/47-Constitution-Hl-W-Princeton-NJ-08540/39012874_zpid/
+8 Greenshadows Ln,Princeton,NJ,08540,474900,NA,4.0,1.5,13,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/8-Greenshadows-Ln-Princeton-NJ-08540/39173708_zpid/
+603 Sayre Dr,Princeton,NJ,08540,449000,1664.0,2.0,3.0,24,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/603-Sayre-Dr-Princeton-NJ-08540/39152091_zpid/
+18 E Countryside Dr,Princeton,NJ,08540,525000,2010.0,3.0,4.0,25,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-E-Countryside-Dr-Princeton-NJ-08540/39173933_zpid/
+42 Winding Way,Princeton,NJ,08540,589000,2996.0,4.0,3.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/42-Winding-Way-Princeton-NJ-08540/67540737_zpid/
+545 Sayre Ave # 545,Plainsboro,NJ,08540,448000,1650.0,2.0,3.0,11,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/545-Sayre-Ave-545-Plainsboro-NJ-08540/2096537138_zpid/
+92 Philip Dr,Princeton,NJ,08540,1299000,3674.0,4.0,4.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/92-Philip-Dr-Princeton-NJ-08540/39012590_zpid/
+24 NW E Countryside Dr,1221 South Brunswick,NJ,08540,418500,1527.0,3.0,3.0,21,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-NW-E-Countryside-Dr-1221-South-Brunswick-NJ-08540/2093584928_zpid/
+603 Sayre Dr # 603,Princeton,NJ,08540,449000,1650.0,2.0,3.0,23,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/603-Sayre-Dr-603-Princeton-NJ-08540/2093603916_zpid/
+36 Taylor Rd,Princeton,NJ,08540,550000,2104.0,4.0,4.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Taylor-Rd-Princeton-NJ-08540/2097801078_zpid/
+7 Birchwood Ct,Princeton,NJ,08540,317000,2147.0,NA,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Birchwood-Ct-Princeton-NJ-08540/64446421_zpid/
+101 Winant Rd,Princeton,NJ,08540,491000,2537.0,4.0,4.0,664,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/101-Winant-Rd-Princeton-NJ-08540/39013196_zpid/
+923 Cherry Hill Rd,Princeton,NJ,08540,430600,3437.0,4.0,3.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/923-Cherry-Hill-Rd-Princeton-NJ-08540/39903329_zpid/
+23 Tanner Dr,Princeton,NJ,08540,574000,3503.0,4.0,NA,31,Auction,http://www.zillow.com/homes/for_sale//homedetails/23-Tanner-Dr-Princeton-NJ-08540/55554751_zpid/
+8 Conifer Ct,Princeton,NJ,08540,350000,2147.0,3.0,3.0,256,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Conifer-Ct-Princeton-NJ-08540/64790514_zpid/
+3 Golf View Dr,Princeton,NJ,08540,387000,3250.0,4.0,2.5,388,Auction,http://www.zillow.com/homes/for_sale//homedetails/3-Golf-View-Dr-Princeton-NJ-08540/39867668_zpid/
+351 State Rd,Princeton,NJ,08540,550000,2502.0,4.0,3.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/351-State-Rd-Princeton-NJ-08540/39010159_zpid/
+430 Nassau St,Princeton,NJ,08540,1495000,4451.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/430-Nassau-St-Princeton-NJ-08540/39008308_zpid/
+101 Camelot Ct,Princeton,NJ,08540,314000,1968.0,3.0,3.0,59,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/101-Camelot-Ct-Princeton-NJ-08540/39174787_zpid/
+340 Sayre Dr,Princeton,NJ,08540,479000,1735.0,3.0,4.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/340-Sayre-Dr-Princeton-NJ-08540/39151819_zpid/
+1 Queenston Pl,Princeton,NJ,08540,668000,2066.0,NA,NA,222,Auction,http://www.zillow.com/homes/for_sale//homedetails/1-Queenston-Pl-Princeton-NJ-08540/39008664_zpid/
+1102 Sayre Dr,Princeton,NJ,08540,123000,935.0,2.0,1.0,528,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1102-Sayre-Dr-Princeton-NJ-08540/39151603_zpid/
+3764 Route 27 Hwy,South Brunswick,NJ,08540,544800,NA,5.0,5.0,82,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3764-Route-27-Hwy-South-Brunswick-NJ-08540/2094311879_zpid/
+75 Cleveland Ln,Princeton,NJ,08540,4898000,7752.0,5.0,5.5,93,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Cleveland-Ln-Princeton-NJ-08540/39007361_zpid/
+70 Lafayette,Princeton,NJ,08540,3300000,NA,6.0,6.5,93,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Lafayette-Princeton-NJ-08540/2094448230_zpid/
+4 Stephen Dr,Princeton,NJ,08540,420000,2280.0,3.0,2.0,138,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Stephen-Dr-Princeton-NJ-08540/39867538_zpid/
+19 Honeyman St,Princeton,NJ,08540,246000,1767.0,NA,1.0,739,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/19-Honeyman-St-Princeton-NJ-08540/39867761_zpid/
+33 Garfield Way,Princeton,NJ,08540,435000,1541.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-Garfield-Way-Princeton-NJ-08540/39904101_zpid/
+214 Cherry Hill Rd,Princeton,NJ,08540,3950000,8942.0,6.0,7.5,340,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/214-Cherry-Hill-Rd-Princeton-NJ-08540/39010506_zpid/
+64 Cleveland Ln,Princeton,NJ,08540,5995000,9100.0,6.0,7.5,298,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/64-Cleveland-Ln-Princeton-NJ-08540/39007374_zpid/
+10 Morning Glory Ct,Princeton,NJ,08540,297000,2165.0,2.0,3.0,150,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/10-Morning-Glory-Ct-Princeton-NJ-08540/55554635_zpid/
+474 Cherry Hill Rd,Princeton,NJ,08540,799000,3582.0,4.0,4.0,75,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-Cherry-Hill-Rd-Princeton-NJ-08540/39009761_zpid/
+55 Governors Ln,Princeton,NJ,08540,869500,2768.0,4.0,3.5,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Governors-Ln-Princeton-NJ-08540/39010812_zpid/
+80 Edgerstoune Rd,Princeton,NJ,08540,2650000,NA,6.0,7.0,81,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/80-Edgerstoune-Rd-Princeton-NJ-08540/39013202_zpid/
+4 Treetops Cir,Princeton,NJ,08540,579900,2510.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Treetops-Cir-Princeton-NJ-08540/59929698_zpid/
+30 Halstead Pl,Princeton,NJ,08540,489000,1935.0,3.0,2.5,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Halstead-Pl-Princeton-NJ-08540/39035161_zpid/
+6 Kent Ct,Princeton,NJ,08540,799000,2659.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Kent-Ct-Princeton-NJ-08540/87967521_zpid/
+13 Castleton Rd,Princeton,NJ,08540,435400,2013.0,3.0,3.0,44,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-Castleton-Rd-Princeton-NJ-08540/39903970_zpid/
+76 Treetops Cir,Princeton,NJ,08540,589999,2762.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/76-Treetops-Cir-Princeton-NJ-08540/67540731_zpid/
+186 Library Pl,Princeton,NJ,08540,2750000,NA,4.0,5.0,83,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/186-Library-Pl-Princeton-NJ-08540/39007373_zpid/
+119 Cherry Valley Rd,Princeton,NJ,08540,399000,1833.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/119-Cherry-Valley-Rd-Princeton-NJ-08540/39903521_zpid/
+905 Lawrenceville Rd,Princeton,NJ,08540,3100000,7561.0,7.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/905-Lawrenceville-Rd-Princeton-NJ-08540/39013167_zpid/
+3 Stirrup Way,Princeton,NJ,08540,499999,NA,4.0,3.0,495,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Stirrup-Way-Princeton-NJ-08540/39867586_zpid/
+271 Edgerstoune Rd,Princeton,NJ,08540,1900000,5720.0,5.0,5.0,129,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/271-Edgerstoune-Rd-Princeton-NJ-08540/39012760_zpid/
+405 Creststone Cir,Princeton,NJ,08540,429900,1968.0,3.0,2.5,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/405-Creststone-Cir-Princeton-NJ-08540/39174757_zpid/
+11 Henderson Ave,Princeton,NJ,08540,599000,1320.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/11-Henderson-Ave-Princeton-NJ-08540/39011444_zpid/
+34 Bouvant Dr,Princeton,NJ,08540,1150000,3855.0,4.0,4.0,33,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-Bouvant-Dr-Princeton-NJ-08540/39009746_zpid/
+40 Scarlet Oak Dr,Princeton,NJ,08540,379000,1584.0,2.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Scarlet-Oak-Dr-Princeton-NJ-08540/64702206_zpid/
+639 Rosedale Rd,Princeton,NJ,08540,499000,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/639-Rosedale-Rd-Princeton-NJ-08540/39006362_zpid/
+188 Cherry Valley Rd,Princeton,NJ,08540,1499000,NA,5.0,6.0,130,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/188-Cherry-Valley-Rd-Princeton-NJ-08540/39009288_zpid/
+330 State Rd,Princeton,NJ,08540,474888,1532.0,3.0,2.0,58,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-State-Rd-Princeton-NJ-08540/39010152_zpid/
+53 Manor Dr,Princeton,NJ,08540,395000,1616.0,3.0,3.0,39,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/53-Manor-Dr-Princeton-NJ-08540/39903812_zpid/
+144 Drakes Corner Rd,Princeton,NJ,08540,739000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/144-Drakes-Corner-Rd-Princeton-NJ-08540/39009642_zpid/
+133 Castleton Rd,Princeton,NJ,08540,429500,2013.0,3.0,3.0,45,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-Castleton-Rd-Princeton-NJ-08540/39903984_zpid/
+2036 Windrow Dr,Princeton,NJ,08540,165000,802.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2036-Windrow-Dr-Princeton-NJ-08540/64809539_zpid/
+4102 Route 27 Hwy,South Brunswick,NJ,08540,358300,NA,4.0,2.0,134,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4102-Route-27-Hwy-South-Brunswick-NJ-08540/2094927724_zpid/
+4 Scarlet Oak Dr,Princeton,NJ,08540,399900,1640.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Scarlet-Oak-Dr-Princeton-NJ-08540/64887132_zpid/
+705 Marten Rd,Princeton,NJ,08540,372500,1686.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/705-Marten-Rd-Princeton-NJ-08540/39903699_zpid/
+3 Barbieri Ct,Princeton,NJ,08540,785000,3951.0,4.0,4.0,65,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Barbieri-Ct-Princeton-NJ-08540/67541148_zpid/
+104 Heritage Blvd APT 1,Princeton,NJ,08540,278900,1147.0,2.0,2.0,34,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/104-Heritage-Blvd-APT-1-Princeton-NJ-08540/39034504_zpid/
+8 Harris Rd,Princeton,NJ,08540,809000,NA,3.0,3.0,87,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8-Harris-Rd-Princeton-NJ-08540/2094367863_zpid/
+55 Linwood Cir,Princeton,NJ,08540,875000,2130.0,4.0,3.0,81,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Linwood-Cir-Princeton-NJ-08540/39012283_zpid/
+126 Clover Ln,Princeton,NJ,08540,1165000,3757.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/126-Clover-Ln-Princeton-NJ-08540/39012350_zpid/
+52 Arreton Rd,Princeton,NJ,08540,3700000,7534.0,6.0,6.0,275,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/52-Arreton-Rd-Princeton-NJ-08540/39009838_zpid/
+8 Players Ln,Princeton,NJ,08540,5799000,15000.0,7.0,9.0,369,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Players-Ln-Princeton-NJ-08540/68298973_zpid/
+55 Sunset Ave,Princeton,NJ,08540,191000,1480.0,2.0,2.0,334,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/55-Sunset-Ave-Princeton-NJ-08540/39868753_zpid/
+121 Commonwealth Ct APT 3,Princeton,NJ,08540,318500,1258.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/121-Commonwealth-Ct-APT-3-Princeton-NJ-08540/39034210_zpid/
+21 Cambridge Ct,Princeton,NJ,08540,518900,1920.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Cambridge-Ct-Princeton-NJ-08540/39903537_zpid/
+52 David Brearly Ct,Princeton,NJ,08540,334999,1120.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/52-David-Brearly-Ct-Princeton-NJ-08540/39009339_zpid/
+119 William Patterson Ct,Princeton,NJ,08540,359500,1120.0,2.0,2.0,54,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/119-William-Patterson-Ct-Princeton-NJ-08540/39009388_zpid/
+39 Lovers Ln,Princeton,NJ,08540,1250000,NA,4.0,3.0,88,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-Lovers-Ln-Princeton-NJ-08540/39013645_zpid/
+80 Westcott Rd,Princeton,NJ,08540,3250000,NA,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/80-Westcott-Rd-Princeton-NJ-08540/39007382_zpid/
+19 Lincoln Ave,Princeton,NJ,08540,520000,3200.0,5.0,5.0,59,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/19-Lincoln-Ave-Princeton-NJ-08540/39867817_zpid/
+28 Constitution Hl W,Princeton,NJ,08540,795000,3217.0,3.0,3.0,394,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-Constitution-Hl-W-Princeton-NJ-08540/39012855_zpid/
+119 Acadia Ct APT 5,Princeton,NJ,08540,279000,1183.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/119-Acadia-Ct-APT-5-Princeton-NJ-08540/39035072_zpid/
+61 Fitch Way,Princeton,NJ,08540,1980000,5128.0,6.0,6.0,415,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Fitch-Way-Princeton-NJ-08540/39009713_zpid/
+14 E Countryside Dr,Princeton,NJ,08540,403000,2300.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/14-E-Countryside-Dr-Princeton-NJ-08540/39173931_zpid/
+2036 Windrow Dr # 2036,Princeton,NJ,08540,165000,NA,1.0,1.0,261,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2036-Windrow-Dr-2036-Princeton-NJ-08540/2096383407_zpid/
+882 Lawrenceville Rd,Princeton,NJ,08540,419000,2409.0,4.0,3.0,37,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/882-Lawrenceville-Rd-Princeton-NJ-08540/39013220_zpid/
+142 Hodge Rd,Princeton,NJ,08540,2950000,NA,6.0,9.0,327,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-Hodge-Rd-Princeton-NJ-08540/39007526_zpid/
+64 Mosher Rd,Princeton,NJ,08540,589000,3000.0,4.0,3.0,989,New Construction,http://www.zillow.com/homes/for_sale//homedetails/64-Mosher-Rd-Princeton-NJ-08540/2104436926_zpid/
+1 Dorchester Ct,Princeton,NJ,08540,895900,4208.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Dorchester-Ct-Princeton-NJ-08540/39006193_zpid/
+2 Constitution Hl E,Princeton,NJ,08540,2700000,NA,3.0,3.0,460,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Constitution-Hl-E-Princeton-NJ-08540/39012830_zpid/
+34 Sage Ct,Princeton,NJ,08540,365000,1527.0,2.0,3.0,32,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-Sage-Ct-Princeton-NJ-08540/39174078_zpid/
+3 Bayberry Dr,Princeton,NJ,08540,659900,2974.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Bayberry-Dr-Princeton-NJ-08540/39034732_zpid/
+106 Mandon Ct,Princeton,NJ,08540,154000,877.0,1.0,1.0,68,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/106-Mandon-Ct-Princeton-NJ-08540/39174927_zpid/
+19 Fredrick Ct,Princeton,NJ,08540,2895000,NA,5.0,6.0,33,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Fredrick-Ct-Princeton-NJ-08540/39009206_zpid/
+395 Franklin Ave,Princeton,NJ,08540,599900,1596.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/395-Franklin-Ave-Princeton-NJ-08540/39012191_zpid/
+4574 Province Line Rd,Princeton,NJ,08540,1995000,NA,6.0,7.0,318,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4574-Province-Line-Rd-Princeton-NJ-08540/39006344_zpid/
+3 Constitution Hl E,Princeton,NJ,08540,900000,NA,2.0,2.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Constitution-Hl-E-Princeton-NJ-08540/39012831_zpid/
+914 906 Great Rd,Princeton,NJ,08540,5975000,NA,9.0,7.0,304,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/914-906-Great-Rd-Princeton-NJ-08540/2096907759_zpid/
+88 Stony Brook Ln,Princeton,NJ,08540,4950000,NA,6.0,9.0,95,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/88-Stony-Brook-Ln-Princeton-NJ-08540/2094488423_zpid/
+51 Clarke Ct,Princeton,NJ,08540,1574000,4476.0,4.0,6.0,75,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/51-Clarke-Ct-Princeton-NJ-08540/39012824_zpid/
+11 Lincoln Ave,Princeton,NJ,08540,599000,3100.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Lincoln-Ave-Princeton-NJ-08540/39867805_zpid/
+27 Blackstone Dr,Princeton,NJ,08540,749900,2869.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Blackstone-Dr-Princeton-NJ-08540/71836671_zpid/
+6 Caleb Ln,Princeton,NJ,08540,630000,2021.0,3.0,3.0,48,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/6-Caleb-Ln-Princeton-NJ-08540/71833042_zpid/
+2204 Windrow Dr,Princeton,NJ,08540,185000,620.0,0,1.0,44,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2204-Windrow-Dr-Princeton-NJ-08540/64881092_zpid/
+55 Constitution Hl W,Princeton,NJ,08540,795000,NA,4.0,4.0,324,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Constitution-Hl-W-Princeton-NJ-08540/39012881_zpid/
+56 Finley Rd,Princeton,NJ,08540,1399000,4618.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/56-Finley-Rd-Princeton-NJ-08540/39010003_zpid/
+316 Cherry Valley Rd,Princeton,NJ,08540,2450000,NA,5.0,7.0,151,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/316-Cherry-Valley-Rd-Princeton-NJ-08540/39009250_zpid/
+1179 Canal Rd,Princeton,NJ,08540,335000,1580.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1179-Canal-Rd-Princeton-NJ-08540/39867491_zpid/
+101 Elm Ridge Rd,Princeton,NJ,08540,528900,2761.0,4.0,4.0,89,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Elm-Ridge-Rd-Princeton-NJ-08540/38994828_zpid/
+73 Leavitt Ln,Princeton,NJ,08540,1279000,3224.0,4.0,4.0,64,New Construction,http://www.zillow.com/homes/for_sale//homedetails/73-Leavitt-Ln-Princeton-NJ-08540/39012320_zpid/
+8 Route 518,Princeton,NJ,08540,75000,NA,NA,NA,75,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Route-518-Princeton-NJ-08540/2099364247_zpid/
+4343 Route 27,Princeton,NJ,08540,650000,4918.0,4.0,4.0,65,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4343-Route-27-Princeton-NJ-08540/39867379_zpid/
+12 E Shore Dr,Princeton,NJ,08540,1160000,4744.0,4.0,4.5,640,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-E-Shore-Dr-Princeton-NJ-08540/38994806_zpid/
+107 Library Pl,Princeton,NJ,08540,2398000,7800.0,6.0,7.0,534,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/107-Library-Pl-Princeton-NJ-08540/39007553_zpid/
+6 Rydal Rd,Princeton,NJ,08540,619900,3037.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Rydal-Rd-Princeton-NJ-08540/71836775_zpid/
+125 Crooked Tree Ln,Princeton,NJ,08540,865000,3358.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/125-Crooked-Tree-Ln-Princeton-NJ-08540/39009568_zpid/
+101 Park Knl,Princeton,NJ,08540,425000,1968.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Park-Knl-Princeton-NJ-08540/64686663_zpid/
+11 Lexington Ct,Princeton,NJ,08540,549000,2200.0,3.0,3.0,291,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Lexington-Ct-Princeton-NJ-08540/39034738_zpid/
+220 Valley Rd,Princeton,NJ,08540,679000,NA,3.0,3.0,37,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/220-Valley-Rd-Princeton-NJ-08540/39012016_zpid/
+88 Elm Ridge Rd,Princeton,NJ,08540,5850000,NA,6.0,8.0,444,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/88-Elm-Ridge-Rd-Princeton-NJ-08540/2141380730_zpid/
+283 Sayre Dr,Princeton,NJ,08540,719000,2780.0,3.0,4.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/283-Sayre-Dr-Princeton-NJ-08540/39151900_zpid/
+4900 Province Line Rd,Princeton,NJ,08540,3250000,NA,5.0,6.0,97,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4900-Province-Line-Rd-Princeton-NJ-08540/104321968_zpid/
+1 Benedek Rd,Princeton,NJ,08540,3199000,9977.0,6.0,8.0,151,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Benedek-Rd-Princeton-NJ-08540/104322154_zpid/
+111 Washington Rd,Princeton,NJ,08540,345000,1240.0,3.0,2.0,76,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/111-Washington-Rd-Princeton-NJ-08540/39039585_zpid/
+84 Allison Rd,Princeton,NJ,08540,1295000,NA,5.0,5.0,45,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/84-Allison-Rd-Princeton-NJ-08540/39007519_zpid/
+343 Jefferson Rd,Princeton,NJ,08540,1349000,3267.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/343-Jefferson-Rd-Princeton-NJ-08540/121362047_zpid/
+5 Hanover Ct,Princeton,NJ,08540,422000,1750.0,2.0,2.1,288,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Hanover-Ct-Princeton-NJ-08540/39034790_zpid/
+302 Christopher Dr,Princeton,NJ,08540,1500000,4453.0,5.0,5.0,72,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/302-Christopher-Dr-Princeton-NJ-08540/39011182_zpid/
+105 Elm Rd,Princeton,NJ,08540,2197000,4814.0,5.0,8.0,117,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/105-Elm-Rd-Princeton-NJ-08540/39007527_zpid/
+9 Caroline Dr,Princeton,NJ,08540,1150000,NA,5.0,6.0,44,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Caroline-Dr-Princeton-NJ-08540/52625003_zpid/
+438 Wendover Dr,Princeton,NJ,08540,2295000,NA,6.0,6.0,67,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/438-Wendover-Dr-Princeton-NJ-08540/39011250_zpid/
+2 Cranberry Ct,Princeton,NJ,08540,579900,2483.0,4.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Cranberry-Ct-Princeton-NJ-08540/39173821_zpid/
+78 Bayberry Rd,Princeton,NJ,08540,649000,NA,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/78-Bayberry-Rd-Princeton-NJ-08540/38994820_zpid/
+23 Birchwood Dr,Princeton,NJ,08540,1495000,NA,5.0,5.0,505,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Birchwood-Dr-Princeton-NJ-08540/64582718_zpid/
+2430 Windrow Dr,Princeton,NJ,08540,360000,975.0,1.0,1.0,53,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2430-Windrow-Dr-Princeton-NJ-08540/64520358_zpid/
+540 Sayre Dr,Princeton,NJ,08540,449000,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/540-Sayre-Dr-Princeton-NJ-08540/2098456841_zpid/
+35 Taylor Rd,Princeton,NJ,08540,499900,1942.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-Taylor-Rd-Princeton-NJ-08540/39175079_zpid/
+502 Cherry Valley Rd,Princeton,NJ,08540,1550000,6600.0,7.0,6.0,296,New Construction,http://www.zillow.com/homes/for_sale//homedetails/502-Cherry-Valley-Rd-Princeton-NJ-08540/104320454_zpid/
+1145 Canal Rd,Princeton,NJ,08540,325000,NA,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1145-Canal-Rd-Princeton-NJ-08540/2093804413_zpid/
+945 Great Rd,Princeton,NJ,08540,1595000,NA,5.0,5.0,45,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/945-Great-Rd-Princeton-NJ-08540/39010078_zpid/
+540 Sayre Dr # 540,Princeton,NJ,08540,449000,NA,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/540-Sayre-Dr-540-Princeton-NJ-08540/2096552561_zpid/
+27B Chicopee Dr,Princeton,NJ,08540,349900,1685.0,2.0,3.0,60,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/27B-Chicopee-Dr-Princeton-NJ-08540/61846472_zpid/
+5072 Province Line Rd,Princeton,NJ,08540,519000,1584.0,3.0,2.0,33,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5072-Province-Line-Rd-Princeton-NJ-08540/38994696_zpid/
+30 Birchwood Dr,Princeton,NJ,08540,1499999,6500.0,5.0,5.0,120,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Birchwood-Dr-Princeton-NJ-08540/64866499_zpid/
+140 Hunt Dr,Princeton,NJ,08540,1850000,NA,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/140-Hunt-Dr-Princeton-NJ-08540/39011299_zpid/
+108 Greenway Ter,Princeton,NJ,08540,1200000,NA,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/108-Greenway-Ter-Princeton-NJ-08540/39011259_zpid/
+7 Eagles Pass,Princeton,NJ,08540,644999,3349.0,4.0,3.0,541,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Eagles-Pass-Princeton-NJ-08540/64516875_zpid/
+1 Tall Timbers Dr,Princeton,NJ,08540,918000,3495.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Tall-Timbers-Dr-Princeton-NJ-08540/39006324_zpid/
+44 Fackler Rd,Princeton,NJ,08540,1650000,NA,5.0,5.0,1206,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Fackler-Rd-Princeton-NJ-08540/2138788990_zpid/
+62 Herrontown Cir,Princeton,NJ,08540,860000,2705.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/62-Herrontown-Cir-Princeton-NJ-08540/39009920_zpid/
+145 Ewing St,Princeton,NJ,08540,849000,NA,3.0,2.0,58,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/145-Ewing-St-Princeton-NJ-08540/39008278_zpid/
+27 Carson Rd,Princeton,NJ,08540,539000,2508.0,4.0,3.0,121,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Carson-Rd-Princeton-NJ-08540/39006050_zpid/
+4 Angelica Ct,Princeton,NJ,08540,634900,3300.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Angelica-Ct-Princeton-NJ-08540/39173892_zpid/
+136 Mapleton Rd,Princeton,NJ,08540,725000,NA,5.0,5.0,86,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/136-Mapleton-Rd-Princeton-NJ-08540/72241094_zpid/
+505 Mercer Rd,Princeton,NJ,08540,2375000,NA,4.0,5.0,104,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/505-Mercer-Rd-Princeton-NJ-08540/39013600_zpid/
+906 Great Rd,Princeton,NJ,08540,4995000,NA,5.0,7.0,478,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/906-Great-Rd-Princeton-NJ-08540/2105389361_zpid/
+14 Edgehill St,Princeton,NJ,08540,1475000,2950.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/14-Edgehill-St-Princeton-NJ-08540/39008693_zpid/
+5279 Province Line Rd,Princeton,NJ,08540,6900000,NA,4.0,9.0,1034,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5279-Province-Line-Rd-Princeton-NJ-08540/2113286740_zpid/
+278 Franklin Ave,Princeton,NJ,08540,924900,2685.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/278-Franklin-Ave-Princeton-NJ-08540/39012078_zpid/
+353 Bunker Hill Rd,Princeton,NJ,08540,1149900,4200.0,4.0,5.0,497,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/353-Bunker-Hill-Rd-Princeton-NJ-08540/39867867_zpid/
+22 Foxcroft Dr,Princeton,NJ,08540,650000,3284.0,4.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Foxcroft-Dr-Princeton-NJ-08540/39006136_zpid/
+100 Battle Road Cir,Princeton,NJ,08540,1895000,NA,5.0,6.0,61,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Battle-Road-Cir-Princeton-NJ-08540/39013688_zpid/
+85 Hoover Ave,Princeton,NJ,08540,399000,1634.0,2.0,3.0,86,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/85-Hoover-Ave-Princeton-NJ-08540/64534540_zpid/
+5 Toftrees Ct,Princeton,NJ,08540,1290000,5250.0,5.0,6.0,55,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Toftrees-Ct-Princeton-NJ-08540/39006288_zpid/
+225 Clover Ln,Princeton,NJ,08540,2100000,1677.0,4.0,2.0,90,New Construction,http://www.zillow.com/homes/for_sale//homedetails/225-Clover-Ln-Princeton-NJ-08540/39010926_zpid/
+2327 Windrow Dr,Princeton,NJ,08540,475000,1277.0,2.0,2.0,146,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2327-Windrow-Dr-Princeton-NJ-08540/64877038_zpid/
+3764 Route 27,Princeton,NJ,08540,518000,NA,5.0,5.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3764-Route-27-Princeton-NJ-08540/39173675_zpid/
+276 Carter Rd,Princeton,NJ,08540,1349000,4415.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/276-Carter-Rd-Princeton-NJ-08540/39006480_zpid/
+2109 Windrow Dr,Princeton,NJ,08540,625000,1469.0,2.0,2.0,144,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2109-Windrow-Dr-Princeton-NJ-08540/55551319_zpid/
+230 Brookstone Dr,Princeton,NJ,08540,1795000,4740.0,5.0,5.0,129,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-Brookstone-Dr-Princeton-NJ-08540/39010502_zpid/
+303 Park Knl,Princeton,NJ,08540,360000,1471.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/303-Park-Knl-Princeton-NJ-08540/39174820_zpid/
+140 Hodge Rd,Princeton,NJ,08540,2800000,5802.0,9.0,6.0,117,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/140-Hodge-Rd-Princeton-NJ-08540/39007470_zpid/
+145 Bunker Hill Rd,Princeton,NJ,08540,359000,1636.0,3.0,2.0,44,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/145-Bunker-Hill-Rd-Princeton-NJ-08540/39867561_zpid/
+34 Nelson Ridge Rd,Princeton,NJ,08540,869900,3215.0,4.0,3.0,123,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-Nelson-Ridge-Rd-Princeton-NJ-08540/38994726_zpid/
+233 Carter Rd,Princeton,NJ,08540,875000,NA,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/233-Carter-Rd-Princeton-NJ-08540/39006459_zpid/
+6 Kimberly Ct,Princeton,NJ,08540,1350000,3797.0,5.0,4.0,39,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Kimberly-Ct-Princeton-NJ-08540/39011352_zpid/
+9 Dana Ct,Princeton,NJ,08540,619000,2806.0,4.0,3.0,91,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Dana-Ct-Princeton-NJ-08540/39175054_zpid/
+15 Douglass Dr,Princeton,NJ,08540,579000,2353.0,4.0,3.0,59,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Douglass-Dr-Princeton-NJ-08540/39173768_zpid/
+61 Gulick Rd,Princeton,NJ,08540,990000,3772.0,5.0,5.0,102,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Gulick-Rd-Princeton-NJ-08540/39010368_zpid/
+1 Landfall Ln,Princeton,NJ,08540,925000,4042.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Landfall-Ln-Princeton-NJ-08540/39006126_zpid/
+6 Harris Rd,Princeton,NJ,08540,799000,1280.0,2.0,3.0,87,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6-Harris-Rd-Princeton-NJ-08540/39007856_zpid/
+54 Rocky Hill Rd,Princeton,NJ,08540,749000,3400.0,4.0,3.0,92,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-Rocky-Hill-Rd-Princeton-NJ-08540/39174140_zpid/
+1147 Stuart Rd,Princeton,NJ,08540,1595000,4825.0,5.0,5.0,352,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1147-Stuart-Rd-Princeton-NJ-08540/39010082_zpid/
+22 Harris Rd,Princeton,NJ,08540,1229000,1491.0,4.0,3.0,82,New Construction,http://www.zillow.com/homes/for_sale//homedetails/22-Harris-Rd-Princeton-NJ-08540/87965736_zpid/
+58 Erdman Ave,Princeton,NJ,08540,1295000,NA,4.0,4.0,37,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/58-Erdman-Ave-Princeton-NJ-08540/39012201_zpid/
+2434 Windrow Dr,Princeton,NJ,08540,530000,1500.0,2.0,2.0,174,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2434-Windrow-Dr-Princeton-NJ-08540/64896198_zpid/
+4497 Province Line Rd,Princeton,NJ,08540,1145000,NA,4.0,5.0,846,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4497-Province-Line-Rd-Princeton-NJ-08540/39006435_zpid/
+2 Audubon Ln,Princeton,NJ,08540,1475000,NA,4.0,4.0,51,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Audubon-Ln-Princeton-NJ-08540/39011101_zpid/
+28 County Road 518,Princeton,NJ,08540,649000,1584.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-County-Road-518-Princeton-NJ-08540/39867559_zpid/
+2220 Windrow Dr,Princeton,NJ,08540,350000,979.0,1.0,1.0,225,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2220-Windrow-Dr-Princeton-NJ-08540/64534923_zpid/
+44 Rutgers Ln,Princeton,NJ,08540,549000,1869.0,3.0,3.0,33,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Rutgers-Ln-Princeton-NJ-08540/39903544_zpid/
+889 Lawrenceville Rd,Princeton,NJ,08540,1179000,2918.0,4.0,4.0,73,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/889-Lawrenceville-Rd-Princeton-NJ-08540/39013166_zpid/
+2140 Windrow Dr,Princeton,NJ,08540,925000,2001.0,2.0,2.0,142,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2140-Windrow-Dr-Princeton-NJ-08540/64738262_zpid/
+41 Morris Dr,Princeton,NJ,08540,1049000,NA,5.0,4.0,145,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-Morris-Dr-Princeton-NJ-08540/38994661_zpid/
+2326 Windrow Dr,Princeton,NJ,08540,370000,975.0,1.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2326-Windrow-Dr-Princeton-NJ-08540/55551309_zpid/
+43 Route 518,Princeton,NJ,08540,749900,1.0,5.0,4.0,543,New Construction,http://www.zillow.com/homes/for_sale//homedetails/43-Route-518-Princeton-NJ-08540/2120573742_zpid/
+303 Park Knl # 303,Princeton,NJ,08540,360000,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/303-Park-Knl-303-Princeton-NJ-08540/2096217407_zpid/
+43 County Road 518,Princeton,NJ,08540,749900,3475.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-County-Road-518-Princeton-NJ-08540/39867346_zpid/
+278-280 Franklin Ave,Princeton,NJ,08540,924900,2685.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/278-280-Franklin-Ave-Princeton-NJ-08540/2094886060_zpid/
+32 Hedge Row Rd,Princeton,NJ,08540,575000,2252.0,2.0,2.0,86,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Hedge-Row-Rd-Princeton-NJ-08540/2094364017_zpid/
+304 Ewing St,Princeton,NJ,08540,1195000,744.0,4.0,3.0,169,New Construction,http://www.zillow.com/homes/for_sale//homedetails/304-Ewing-St-Princeton-NJ-08540/39012061_zpid/
+15 Governors Ln,Princeton,NJ,08540,950000,NA,3.0,5.0,138,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Governors-Ln-Princeton-NJ-08540/39010773_zpid/
+4680 Province Line Rd,Princeton,NJ,08540,699000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4680-Province-Line-Rd-Princeton-NJ-08540/39006464_zpid/
+27 Douglass Dr,Princeton,NJ,08540,529000,2121.0,4.0,3.0,89,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Douglass-Dr-Princeton-NJ-08540/39173773_zpid/
+10 Oak Pl,Princeton,NJ,08540,595000,2450.0,2.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Oak-Pl-Princeton-NJ-08540/39006115_zpid/
+42 Christopher Dr,Princeton,NJ,08540,1499000,4308.0,4.0,5.0,157,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/42-Christopher-Dr-Princeton-NJ-08540/39011167_zpid/
+673 Lawrenceville Rd,Princeton,NJ,08540,1299500,NA,5.0,5.0,37,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/673-Lawrenceville-Rd-Princeton-NJ-08540/39013183_zpid/
+20 Mosher Rd,Princeton,NJ,08540,559500,2192.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Mosher-Rd-Princeton-NJ-08540/39867654_zpid/
+170 Lambert Dr,Princeton,NJ,08540,1945000,NA,6.0,7.0,398,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/170-Lambert-Dr-Princeton-NJ-08540/39012683_zpid/
+2302 Windrow Dr,Princeton,NJ,08540,370000,958.0,1.0,1.5,163,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2302-Windrow-Dr-Princeton-NJ-08540/64778848_zpid/
+2210 Windrow Dr,Princeton,NJ,08540,675000,1469.0,2.0,2.0,88,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2210-Windrow-Dr-Princeton-NJ-08540/55551299_zpid/
+171 Shadybrook Ln,Princeton,NJ,08540,1859000,NA,5.0,6.0,75,New Construction,http://www.zillow.com/homes/for_sale//homedetails/171-Shadybrook-Ln-Princeton-NJ-08540/2094233728_zpid/
+3690 Lawrenceville Rd,Princeton,NJ,08540,688900,3966.0,5.0,4.0,114,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/3690-Lawrenceville-Rd-Princeton-NJ-08540/2137029694_zpid/
+127 Cherry Brook Dr,Princeton,NJ,08540,559900,2562.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/127-Cherry-Brook-Dr-Princeton-NJ-08540/39903296_zpid/
+42 Harris Rd,Princeton,NJ,08540,1269000,1464.0,4.0,4.0,163,New Construction,http://www.zillow.com/homes/for_sale//homedetails/42-Harris-Rd-Princeton-NJ-08540/87966087_zpid/
+252 Terhune Rd,Princeton,NJ,08540,1289000,NA,4.0,4.5,279,New Construction,http://www.zillow.com/homes/for_sale//homedetails/252-Terhune-Rd-Princeton-NJ-08540/2096604011_zpid/
+743 Prospect Ave,Princeton,NJ,08540,1485000,2048.0,3.0,2.0,61,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/743-Prospect-Ave-Princeton-NJ-08540/39010996_zpid/
+24 Haslet Ave,Princeton,NJ,08540,1185000,2030.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-Haslet-Ave-Princeton-NJ-08540/39013747_zpid/
+4333 Route 27,PRINCETON,NJ,08540,384900,2084.0,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-Route-27-Princeton-NJ-08540/39867377_zpid/
+13C Andover Cir,Princeton,NJ,08540,359900,NA,2.0,3.0,65,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/13C-Andover-Cir-Princeton-NJ-08540/2094102327_zpid/
+22 Constitution Hl W,Princeton,NJ,08540,975000,2739.0,2.0,2.5,500,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Constitution-Hl-W-Princeton-NJ-08540/39012849_zpid/
+501 Creststone Cir # 501,Princeton,NJ,08540,484000,NA,3.0,3.0,363,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/501-Creststone-Cir-501-Princeton-NJ-08540/2097649162_zpid/
+44 Rutgers,Montgomery,NJ,08540,549000,1869.0,3.0,3.0,32,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Rutgers-Montgomery-NJ-08540/2093698709_zpid/
+2235 Windrow Dr,Princeton,NJ,08540,335000,802.0,1.0,1.0,262,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2235-Windrow-Dr-Princeton-NJ-08540/64717893_zpid/
+87 Lafayette Rd,Princeton,NJ,08540,1375000,2780.0,6.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/87-Lafayette-Rd-Princeton-NJ-08540/39007323_zpid/
+57 Governors Ln,Princeton,NJ,08540,775000,2310.0,4.0,4.0,110,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/57-Governors-Ln-Princeton-NJ-08540/39010814_zpid/
+10 Harris Rd,Princeton,NJ,08540,1229000,1656.0,4.0,3.0,82,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10-Harris-Rd-Princeton-NJ-08540/87962235_zpid/
+4550 Province Line Rd,Princeton,NJ,08540,649000,3156.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4550-Province-Line-Rd-Princeton-NJ-08540/39006340_zpid/
+6 Bertrand Dr,Princeton,NJ,08540,1199500,2694.0,5.0,3.0,173,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Bertrand-Dr-Princeton-NJ-08540/39009930_zpid/
+84 Carson Rd,Princeton,NJ,08540,1250000,2664.0,4.0,2.5,121,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/84-Carson-Rd-Princeton-NJ-08540/39006415_zpid/
+4 Mimosa Ct,Princeton,NJ,08540,1100000,2483.0,5.0,5.0,66,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Mimosa-Ct-Princeton-NJ-08540/39173832_zpid/
+56 Tee Ar Pl,Princeton,NJ,08540,1399000,1360.0,4.0,4.0,62,New Construction,http://www.zillow.com/homes/for_sale//homedetails/56-Tee-Ar-Pl-Princeton-NJ-08540/39012111_zpid/
+102 Cherry Hill Rd,Princeton,NJ,08540,1850000,4902.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/102-Cherry-Hill-Rd-Princeton-NJ-08540/39010507_zpid/
+1 Battle Rd,Princeton,NJ,08540,2975000,NA,4.0,5.0,67,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Battle-Rd-Princeton-NJ-08540/2094135684_zpid/
+537 Sayre Dr,Princeton,NJ,08540,452000,1650.0,2.0,3.0,51,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/537-Sayre-Dr-Princeton-NJ-08540/2098523587_zpid/
+410 Ridgeview Rd,Princeton,NJ,08540,1988000,5200.0,5.0,4.5,84,New Construction,http://www.zillow.com/homes/for_sale//homedetails/410-Ridgeview-Rd-Princeton-NJ-08540/2094338172_zpid/
+86 County Road 518,Princeton,NJ,08540,375000,NA,NA,NA,180,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/86-County-Road-518-Princeton-NJ-08540/2095473002_zpid/
+4345 Us Rte # 1,South Brunswick,NJ,08540,999000,NA,NA,NA,118,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4345-Us-Rte-1-South-Brunswick-NJ-08540/2094747489_zpid/
+4345 Us Rte # 1,1221 South Brunswick,NJ,08540,999000,NA,NA,NA,118,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4345-Us-Rte-1-1221-South-Brunswick-NJ-08540/2094750996_zpid/
+188 Parkside Dr,Princeton,NJ,08540,1650000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/188-Parkside-Dr-Princeton-NJ-08540/39013591_zpid/
+141 Red Hill Rd,Princeton,NJ,08540,649900,1938.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/141-Red-Hill-Rd-Princeton-NJ-08540/39010562_zpid/
+86 Mapleton Rd,Princeton,NJ,08540,1100000,3736.0,5.0,5.0,46,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/86-Mapleton-Rd-Princeton-NJ-08540/59876533_zpid/
+43 County Route 518 Rd,Franklin,NJ,08540,749900,3475.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-County-Route-518-Rd-Franklin-NJ-08540/2094438494_zpid/
+6 Stout Rd,Princeton,NJ,08540,1795000,NA,6.0,7.0,103,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Stout-Rd-Princeton-NJ-08540/2094574448_zpid/
+1303 Canal Rd,Princeton,NJ,08540,710000,3207.0,3.0,3.0,128,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1303-Canal-Rd-Princeton-NJ-08540/2094860476_zpid/
+358 Wendover Dr,Princeton,NJ,08540,2950000,NA,6.0,7.0,535,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/358-Wendover-Dr-Princeton-NJ-08540/39011258_zpid/
+71 Carter Rd,Princeton,NJ,08540,779000,3336.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/71-Carter-Rd-Princeton-NJ-08540/2097995132_zpid/
+27 Douglas,South Brunswick,NJ,08540,529000,2121.0,4.0,3.0,89,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Douglas-South-Brunswick-NJ-08540/2094411004_zpid/
+54 Montadale Dr,Princeton,NJ,08540,1200000,NA,6.0,6.0,39,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-Montadale-Dr-Princeton-NJ-08540/39010110_zpid/
+114 Elm Rd,Princeton,NJ,08540,2750000,NA,6.0,8.0,637,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/114-Elm-Rd-Princeton-NJ-08540/39007447_zpid/
+75 Arreton Rd,Princeton,NJ,08540,1200000,4744.0,5.0,4.0,104,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-Arreton-Rd-Princeton-NJ-08540/2126436535_zpid/
+4505 Province Line Rd,Princeton,NJ,08540,788800,3574.0,5.0,6.0,67,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4505-Province-Line-Rd-Princeton-NJ-08540/39006434_zpid/
+4 Vista Dr,Princeton,NJ,08540,1179999,6518.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Vista-Dr-Princeton-NJ-08540/2098907293_zpid/
+101 Elm Rdg,Hopewell,NJ,08540,528900,2761.0,4.0,4.0,89,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Elm-Rdg-Hopewell-NJ-08540/2094411006_zpid/
+1 Wildbriar Ln,Princeton,NJ,08540,619500,2872.0,4.0,3.0,153,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Wildbriar-Ln-Princeton-NJ-08540/2123872826_zpid/
+29 Dempsey Ave,Princeton,NJ,08540,1585000,4630.0,5.0,5.0,121,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/29-Dempsey-Ave-Princeton-NJ-08540/39011688_zpid/
+10 Tall Timbers Dr,Princeton,NJ,08540,700000,4064.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Tall-Timbers-Dr-Princeton-NJ-08540/39006308_zpid/
+14 Stout Rd,Princeton,NJ,08540,1525000,4776.0,5.0,4.0,94,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/14-Stout-Rd-Princeton-NJ-08540/52625020_zpid/
+10 Skyfield Dr,Princeton,NJ,08540,1695000,6000.0,5.0,6.0,123,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Skyfield-Dr-Princeton-NJ-08540/2116588560_zpid/
+97 York Dr,Princeton,NJ,08540,605000,2088.0,3.0,3.0,105,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/97-York-Dr-Princeton-NJ-08540/39903270_zpid/
+Hoover Ave,Princeton,NJ,08540,NA,1987.0,NA,NA,61,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138600_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Forest Ave,Princeton,NJ,08540,NA,1634.0,NA,1.0,61,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138478_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Queenston Pl,Princeton,NJ,08540,NA,2066.0,NA,2.0,44,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137816_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Prospect Ave,Princeton,NJ,08540,NA,2467.0,NA,1.5,44,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137809_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Greenshadows Ln,Princeton,NJ,08540,NA,1863.0,NA,1.0,52,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/Greenshadows-Ln-Princeton-NJ-08540/178596220_zpid/
+Renfield Dr,Princeton,NJ,08540,NA,3910.0,NA,NA,43,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239675024_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Lawrenceville Rd,Princeton,NJ,08540,NA,5420.0,NA,2.0,70,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/190893170_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Brentwood Blvd,Princeton,NJ,08540,NA,1035.0,NA,1.5,599,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138611_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Wallingford Dr,Princeton,NJ,08540,NA,2166.0,NA,2.0,604,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137888_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Carter Rd,Princeton,NJ,08540,NA,5698.0,NA,NA,87,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137531_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+State Rd,Princeton,NJ,08540,NA,2502.0,NA,2.0,644,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/State-Rd-Princeton-NJ-08540/154137763_zpid/
+William Livingston Ct # 193,Princeton,NJ,08540,NA,1922.0,NA,3.0,184,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137839_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Arreton Rd,Princeton,NJ,08540,NA,2138.0,NA,2.0,98,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137841_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Renfield Dr,Princeton,NJ,08540,NA,3868.0,NA,NA,489,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138083_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Goldstar Dr,Princeton,NJ,08540,NA,3349.0,NA,2.0,138,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138208_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Barbieri Ct,Princeton,NJ,08540,NA,3951.0,NA,NA,542,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138209_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Winding Way,Princeton,NJ,08540,NA,3349.0,NA,2.0,88,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138571_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Golf View Dr,Princeton,NJ,08540,NA,3250.0,NA,2.0,80,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138585_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Sayre Dr,Princeton,NJ,08540,NA,1656.0,NA,NA,87,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178563787_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Sayre Dr,Princeton,NJ,08540,NA,936.0,NA,NA,135,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178563814_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Muriel Ct,Princeton,NJ,08540,NA,1414.0,NA,NA,236,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/178596183_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Mandon Ct,Princeton,NJ,08540,NA,1130.0,NA,NA,441,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/178596184_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Oak Pl,Princeton,NJ,08540,NA,3165.0,NA,1.0,34,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154137521_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Lawrenceville Rd,Princeton,NJ,08540,NA,2409.0,NA,2.0,34,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239691519_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Ragany Ln,Princeton,NJ,08540,NA,NA,NA,1.0,188,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/219334848_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"

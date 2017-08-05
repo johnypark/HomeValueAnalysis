@@ -1,0 +1,81 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+411 NW 14th St,Gainesville,FL,32603,999000,2184.0,0.0,NA,5.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/411-NW-14th-St-Gainesville-FL-32603/42736116_zpid/
+2226 NW 7th Ln,Gainesville,FL,32603,549000,2336.0,4.0,3.0,19.0,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2226-NW-7th-Ln-Gainesville-FL-32603/42736555_zpid/
+529 NW 19th St,Gainesville,FL,32603,377000,2249.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/529-NW-19th-St-Gainesville-FL-32603/42736528_zpid/
+1704 NW 8th Ave,Gainesville,FL,32603,299000,2126.0,4.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1704-NW-8th-Ave-Gainesville-FL-32603/42736393_zpid/
+1416 NW 5th Ave,Gainesville,FL,32603,279500,1580.0,4.0,3.0,33,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1416-NW-5th-Ave-Gainesville-FL-32603/2093707800_zpid/
+729 NW 22nd St,Gainesville,FL,32603,1050000,4572.0,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/729-NW-22nd-St-Gainesville-FL-32603/42736566_zpid/
+NW 4th Pl,Gainesville,FL,32603,NA,3763.0,3.0,1.0,138,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133339_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+507 NW 2nd St,Gainesville,FL,32601,29900,1267.0,4.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/507-NW-2nd-St-Gainesville-FL-32601/42735865_zpid/
+1100 1102 Nw 45th Ave,Gainesville,FL,32601,124900,2886.0,7.0,3.0,3,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/1100-1102-Nw-45th-Ave-Gainesville-FL-32601/2093344776_zpid/
+835 SW 9th St APT 307,Gainesville,FL,32601,243500,1410.0,4.0,4.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/835-SW-9th-St-APT-307-Gainesville-FL-32601/70737521_zpid/
+713 SW 3rd St,Gainesville,FL,32601,69500,1176.0,3.0,2.0,5,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/713-SW-3rd-St-Gainesville-FL-32601/42735256_zpid/
+703 NW 9th Ave,Gainesville,FL,32601,149900,1125.0,4.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/703-NW-9th-Ave-Gainesville-FL-32601/42731161_zpid/
+1220 SW 1st Ave APT 203,Gainesville,FL,32601,120000,430.0,1.0,1.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1220-SW-1st-Ave-APT-203-Gainesville-FL-32601/81782466_zpid/
+1035 SW 9th St APT F21,Gainesville,FL,32601,74900,580.0,1.0,1.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1035-SW-9th-St-APT-F21-Gainesville-FL-32601/81784744_zpid/
+612 & 626 Nw 10th Ave,Gainesville,FL,32601,595000,5400.0,0.0,NA,5,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/612-&-626-Nw-10th-Ave-Gainesville-FL-32601/2093382420_zpid/
+215 NE Boulevard # 213,Gainesville,FL,32601,450000,4312.0,0.0,NA,5,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-NE-Boulevard-213-Gainesville-FL-32601/2093382424_zpid/
+204 NE 3rd Ave,Gainesville,FL,32601,325000,1632.0,3.0,2.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/204-NE-3rd-Ave-Gainesville-FL-32601/42736070_zpid/
+410 NW 13th St,Gainesville,FL,32601,1500000,6969.0,NA,NA,5,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/410-NW-13th-St-Gainesville-FL-32601/2093382176_zpid/
+201 SE 2nd Ave STE 0417,Gainesville,FL,32601,260000,1823.0,3.0,3.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-SE-2nd-Ave-STE-0417-Gainesville-FL-32601/2093382177_zpid/
+201 SE 2nd Ave STE 302,Gainesville,FL,32601,193000,889.0,2.0,2.0,9,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-SE-2nd-Ave-STE-302-Gainesville-FL-32601/52528883_zpid/
+905 E University Ave,Gainesville,FL,32601,120000,NA,NA,NA,5,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/905-E-University-Ave-Gainesville-FL-32601/2099137276_zpid/
+1225 SW 25th Pl,Gainesville,FL,32601,382000,2100.0,3.0,3.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1225-SW-25th-Pl-Gainesville-FL-32601/70605336_zpid/
+914 SW 8th Ave APT 40,Gainesville,FL,32601,61000,957.0,4.0,2.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/914-SW-8th-Ave-APT-40-Gainesville-FL-32601/70737479_zpid/
+914 SW 8th Ave APT 19,Gainesville,FL,32601,65000,972.0,4.0,2.0,30,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/914-SW-8th-Ave-APT-19-Gainesville-FL-32601/70737460_zpid/
+3303 SW 1st Way,Gainesville,FL,32601,289000,1800.0,4.0,4.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3303-SW-1st-Way-Gainesville-FL-32601/42736930_zpid/
+914 SW 8th Ave APT 14,Gainesville,FL,32601,63000,918.0,4.0,2.0,30,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/914-SW-8th-Ave-APT-14-Gainesville-FL-32601/70737455_zpid/
+1212 SW 16th Ave APT B,Gainesville,FL,32601,150000,975.0,2.0,2.0,24,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1212-SW-16th-Ave-APT-B-Gainesville-FL-32601/42736815_zpid/
+715 NE 7th St,Gainesville,FL,32601,465000,2887.0,4.0,3.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/715-NE-7th-St-Gainesville-FL-32601/42734993_zpid/
+1257 SW 9th Rd APT 314,Gainesville,FL,32601,249900,1330.0,3.0,3.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1257-SW-9th-Rd-APT-314-Gainesville-FL-32601/70737552_zpid/
+201 NE 8th St,Gainesville,FL,32601,359000,2298.0,4.0,5.0,20,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/201-NE-8th-St-Gainesville-FL-32601/42734562_zpid/
+201 SE 2nd Ave STE 417,Gainesville,FL,32601,260000,1823.0,3.0,3.0,24,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/201-SE-2nd-Ave-STE-417-Gainesville-FL-32601/58881518_zpid/
+322 NW 8th St,Gainesville,FL,32601,199000,2608.0,7.0,3.0,164,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/322-NW-8th-St-Gainesville-FL-32601/42735642_zpid/
+408 W University Ave APT 9C,Gainesville,FL,32601,109000,1085.0,2.0,2.0,121,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/408-W-University-Ave-APT-9C-Gainesville-FL-32601/42736052_zpid/
+1015 SW 9th St APT A4,Gainesville,FL,32601,35000,576.0,1.0,1.0,741,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1015-SW-9th-St-APT-A4-Gainesville-FL-32601/58881769_zpid/
+511 SE 13TH Ave,GAINESVILLE,FL,32601,76000,1215.0,3.0,1.0,1761,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/511-SE-13TH-Ave-Gainesville-FL-32601/82049503_zpid/
+620 SW 10th Ln APT 4,Gainesville,FL,32601,58000,942.0,2.0,1.5,1756,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/620-SW-10th-Ln-APT-4-Gainesville-FL-32601/81379582_zpid/
+1114 NE 8th Ave,Gainesville,FL,32601,110000,1489.0,4.0,2.0,365,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1114-NE-8th-Ave-Gainesville-FL-32601/42732039_zpid/
+1423 NW 8th St,Gainesville,FL,32601,179950,968.0,2.0,1.0,34,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1423-NW-8th-St-Gainesville-FL-32601/42731360_zpid/
+211 SW 6th Ave,Gainesville,FL,32601,59900,1160.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/211-SW-6th-Ave-Gainesville-FL-32601/42735285_zpid/
+626 NW 4th Ave,Gainesville,FL,32601,40000,1138.0,3.0,1.0,542,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/626-NW-4th-Ave-Gainesville-FL-32601/42735586_zpid/
+305 NE 6th St,Gainesville,FL,32601,674000,3152.0,4.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-NE-6th-St-Gainesville-FL-32601/2116098337_zpid/
+914 SW 8th Ave APT 10,Gainesville,FL,32601,63000,918.0,4.0,2.0,31,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/914-SW-8th-Ave-APT-10-Gainesville-FL-32601/70737452_zpid/
+221 NW 16th Ave,Gainesville,FL,32601,127000,1563.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/221-NW-16th-Ave-Gainesville-FL-32601/42731399_zpid/
+747 SE 2nd Pl # 7,Gainesville,FL,32601,125000,923.0,2.0,1.0,94,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/747-SE-2nd-Pl-7-Gainesville-FL-32601/70737444_zpid/
+1006 NE 12th Ave,Gainesville,FL,32601,164900,1176.0,3.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1006-NE-12th-Ave-Gainesville-FL-32601/42732285_zpid/
+1280 SW Williston Rd,Gainesville,FL,32601,399000,NA,NA,NA,201,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1280-SW-Williston-Rd-Gainesville-FL-32601/42738918_zpid/
+1125 NW 13th Ave,Gainesville,FL,32601,249900,1737.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1125-NW-13th-Ave-Gainesville-FL-32601/42731235_zpid/
+700 NE 7th St,Gainesville,FL,32601,389500,1958.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/700-NE-7th-St-Gainesville-FL-32601/42734870_zpid/
+1236 NW 4th Ave,Gainesville,FL,32601,299500,2508.0,4.0,2.0,377,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1236-NW-4th-Ave-Gainesville-FL-32601/2099371588_zpid/
+720 NW 2nd Ave,Gainesville,FL,32601,175000,1148.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/720-NW-2nd-Ave-Gainesville-FL-32601/2094610804_zpid/
+0000 NW 20th St,Gainesville,FL,32601,175000,NA,NA,NA,59,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0000-NW-20th-St-Gainesville-FL-32601/2094023192_zpid/
+921 NE 16th Ave,Gainesville,FL,32601,144900,1191.0,3.0,2.0,64,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/921-NE-16th-Ave-Gainesville-FL-32601/42732077_zpid/
+918 SE 2nd Ave,Gainesville,FL,32601,1250000,4776.0,0,NA,213,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/918-SE-2nd-Ave-Gainesville-FL-32601/2104367976_zpid/
+127 NE 4th St,Gainesville,FL,32601,249900,948.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/127-NE-4th-St-Gainesville-FL-32601/87625483_zpid/
+3301 SW 5TH Ct,GAINESVILLE,FL,32601,497900,2902.0,4.0,3.0,218,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3301-SW-5TH-Ct-Gainesville-FL-32601/103011773_zpid/
+810 SW 21st Ave,Gainesville,FL,32601,314000,3160.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/810-SW-21st-Ave-Gainesville-FL-32601/42736796_zpid/
+1015 SW 3rd Ave,Gainesville,FL,32601,399000,1804.0,4.0,2.0,34,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1015-SW-3rd-Ave-Gainesville-FL-32601/42735386_zpid/
+530 NE 10th St,Gainesville,FL,32601,249500,1952.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/530-NE-10th-St-Gainesville-FL-32601/42734978_zpid/
+NW 7th Ave,Gainesville,FL,32601,39500,NA,1.0,1.0,249,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/NW-7th-Ave-Gainesville-FL-32601/2116728880_zpid/
+221 SE 7th St,Gainesville,FL,32601,947500,4829.0,7.0,8.0,36,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/221-SE-7th-St-Gainesville-FL-32601/2093738335_zpid/
+1006 NW 12th Ave,Gainesville,FL,32601,235900,1841.0,3.0,2.0,45,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1006-NW-12th-Ave-Gainesville-FL-32601/42731241_zpid/
+1 NW 16th Ave,Gainesville,FL,32601,99900,NA,NA,NA,255,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-NW-16th-Ave-Gainesville-FL-32601/2096319054_zpid/
+512 NE 10th Ave,Gainesville,FL,32601,525000,3209.0,4.0,4.0,50,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-NE-10th-Ave-Gainesville-FL-32601/42731896_zpid/
+3260 S Main St,Gainesville,FL,32601,129000,NA,NA,NA,170,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3260-S-Main-St-Gainesville-FL-32601/2095343596_zpid/
+742 NE 12th Ave,Gainesville,FL,32601,329900,1812.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/742-NE-12th-Ave-Gainesville-FL-32601/2094510963_zpid/
+635 NW 13th St,Gainesville,FL,32601,1800000,NA,NA,NA,97,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/635-NW-13th-St-Gainesville-FL-32601/42690251_zpid/
+207 NE 7th St,Gainesville,FL,32601,1200000,4084.0,0,NA,213,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/207-NE-7th-St-Gainesville-FL-32601/42734554_zpid/
+SW 11th Ave,Gainesville,FL,32601,NA,2093.0,3.0,1.0,25,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239957887_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 1ST St,GAINESVILLE,FL,32601,NA,NA,NA,NA,389,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133178_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE 13TH Ln,GAINESVILLE,FL,32601,NA,NA,NA,NA,230,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133179_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 10th St,Gainesville,FL,32601,NA,1338.0,3.0,1.0,97,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/138133196_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NW 10th St,Gainesville,FL,32601,NA,1552.0,3.0,1.0,138,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/138133208_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NW 11th Ave,Gainesville,FL,32601,NA,1182.0,2.0,1.0,208,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133241_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE 13th Ln,Gainesville,FL,32601,NA,736.0,2.0,1.0,233,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133264_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 2nd Pl,Gainesville,FL,32601,NA,702.0,2.0,1.0,214,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133302_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE 9th St,Gainesville,FL,32601,NA,777.0,2.0,1.0,244,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/138133306_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 13th St,Gainesville,FL,32601,NA,1498.0,3.0,1.0,208,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 2nd Ter,Gainesville,FL,32601,NA,1098.0,3.0,1.0,151,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/138133364_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 5th St,Gainesville,FL,32601,NA,1471.0,3.0,1.0,269,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/138133365_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 5th Pl,Gainesville,FL,32601,NA,1176.0,3.0,1.0,173,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/190924141_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"

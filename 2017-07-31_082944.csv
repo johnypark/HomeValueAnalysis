@@ -1,0 +1,172 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+9 Washington Valley Rd,Warren,NJ,07059,459000,1482.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Washington-Valley-Rd-Warren-NJ-07059/39916321_zpid/
+19 Nottingham Way,Warren,NJ,07059,958500,5403.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Nottingham-Way-Warren-NJ-07059/39915674_zpid/
+18 Nottingham Way,Warren,NJ,07059,1150000,10000.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Nottingham-Way-Warren-NJ-07059/39915709_zpid/
+10 Stratford Ct,Warren,NJ,07059,1995000,5542.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Stratford-Ct-Warren-NJ-07059/53729244_zpid/
+21 Raspberry Trl,Warren,NJ,07059,1835000,5169.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Raspberry-Trl-Warren-NJ-07059/63721641_zpid/
+13 Rambling Brook Ln,Warren,NJ,07059,995000,6215.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-Rambling-Brook-Ln-Warren-NJ-07059/39917644_zpid/
+55 Mount Horeb Rd,Warren,NJ,07059,459000,1783.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Mount-Horeb-Rd-Warren-NJ-07059/39915955_zpid/
+15 King George Rd,Warren,NJ,07059,1015000,6920.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-King-George-Rd-Warren-NJ-07059/39917399_zpid/
+6 Willow Woods Trl,Warren,NJ,07059,1695000,7119.0,7.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Willow-Woods-Trl-Warren-NJ-07059/39916919_zpid/
+5 Nottingham Way,Warren,NJ,07059,998000,4980.0,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Nottingham-Way-Warren-NJ-07059/39915681_zpid/
+8 Fox Hill Dr,Warren,NJ,07059,819000,2462.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Fox-Hill-Dr-Warren-NJ-07059/39916535_zpid/
+14 Kensington Ct,Warren,NJ,07059,1695000,5292.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/14-Kensington-Ct-Warren-NJ-07059/39916911_zpid/
+19 Stoningham Dr,Warren,NJ,07059,1788000,7400.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Stoningham-Dr-Warren-NJ-07059/39915587_zpid/
+2 Hilltop Ct,Warren,NJ,07059,1250000,4276.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Hilltop-Ct-Warren-NJ-07059/39919608_zpid/
+7 Avon Rd,Warren,NJ,07059,1475000,4849.0,3.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Avon-Rd-Warren-NJ-07059/121881995_zpid/
+15 Stoningham Dr,Warren,NJ,07059,1150000,5280.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Stoningham-Dr-Warren-NJ-07059/39915585_zpid/
+26 Gregory Ln,Warren,NJ,07059,819000,3879.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Gregory-Ln-Warren-NJ-07059/39916892_zpid/
+11 Briarwood Dr E,Warren,NJ,07059,979900,3290.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Briarwood-Dr-E-Warren-NJ-07059/53729148_zpid/
+112 King George Rd,Warren,NJ,07059,870000,3585.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/112-King-George-Rd-Warren-NJ-07059/39917735_zpid/
+1A Tall Oaks Dr,Warren,NJ,07059,899000,3100.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1A-Tall-Oaks-Dr-Warren-NJ-07059/2093915065_zpid/
+20 Round Top Rd,Warren,NJ,07059,699000,2331.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Round-Top-Rd-Warren-NJ-07059/39916595_zpid/
+9 Friar Tuck Ct,Warren,NJ,07059,1298000,5500.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Friar-Tuck-Ct-Warren-NJ-07059/53729139_zpid/
+2 Beechwood Ct,Warren,NJ,07059,1299000,5028.0,5.0,5.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/2-Beechwood-Ct-Warren-NJ-07059/55638309_zpid/
+32 Briarwood Dr E,Warren,NJ,07059,975000,4128.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Briarwood-Dr-E-Warren-NJ-07059/53729180_zpid/
+4 Casale Dr,Warren,NJ,07059,650000,2813.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Casale-Dr-Warren-NJ-07059/39915887_zpid/
+89 Dock Watch Hollow Rd,Warren,NJ,07059,1549000,NA,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/89-Dock-Watch-Hollow-Rd-Warren-NJ-07059/2096488941_zpid/
+91 Dock Watch Hollow Rd,Warren,NJ,07059,2169000,8700.0,6.0,7.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/91-Dock-Watch-Hollow-Rd-Warren-NJ-07059/39916169_zpid/
+6 Quail Run,Warren,NJ,07059,1229000,4800.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Quail-Run-Warren-NJ-07059/39917682_zpid/
+2 Normandy Ct,Warren,NJ,07059,880000,NA,4.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Normandy-Ct-Warren-NJ-07059/121882202_zpid/
+173 Town Center Dr,Warren,NJ,07059,429900,2000.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/173-Town-Center-Dr-Warren-NJ-07059/39917922_zpid/
+27 Scheurman Ter,Warren,NJ,07059,1199000,4210.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Scheurman-Ter-Warren-NJ-07059/39883749_zpid/
+3 Timber Ridge Dr,Warren,NJ,07059,1049000,3534.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Timber-Ridge-Dr-Warren-NJ-07059/39915606_zpid/
+6 Angus Ln,Warren,NJ,07059,699000,2646.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Angus-Ln-Warren-NJ-07059/39915931_zpid/
+8 Indian Rock Rd,Warren,NJ,07059,563000,41.0,5.0,4.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/8-Indian-Rock-Rd-Warren-NJ-07059/39919218_zpid/
+14 Stiles Rd,Warren,NJ,07059,247500,NA,2.0,1.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/14-Stiles-Rd-Warren-NJ-07059/39919591_zpid/
+5 Tiffany Way,Warren,NJ,07059,7900000,NA,7.0,16.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Tiffany-Way-Warren-NJ-07059/39917872_zpid/
+68 Mountain Ave,Warren,NJ,07059,775000,3463.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Mountain-Ave-Warren-NJ-07059/53729399_zpid/
+3 Miller Ln,Warren,NJ,07059,999888,5417.0,6.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Miller-Ln-Warren-NJ-07059/39917867_zpid/
+78 Dock Watch Hollow Rd,Warren,NJ,07059,2856000,7600.0,7.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/78-Dock-Watch-Hollow-Rd-Warren-NJ-07059/39917085_zpid/
+2 Trinity Pl,Warren,NJ,07059,735000,3962.0,NA,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2-Trinity-Pl-Warren-NJ-07059/39915556_zpid/
+11 Wexford Ct,Warren,NJ,07059,927000,4378.0,NA,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/11-Wexford-Ct-Warren-NJ-07059/39918631_zpid/
+2 Birchmont Ln,Warren,NJ,07059,479900,1944.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Birchmont-Ln-Warren-NJ-07059/39919533_zpid/
+23 Berkshire Dr,Warren,NJ,07059,679900,1672.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Berkshire-Dr-Warren-NJ-07059/39917171_zpid/
+28 Ellsworth Dr,Warren,NJ,07059,1199000,4760.0,4.0,3.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-Ellsworth-Dr-Warren-NJ-07059/117734518_zpid/
+4 Gabriella Ln,Warren,NJ,07059,2379000,8800.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Gabriella-Ln-Warren-NJ-07059/123896626_zpid/
+5 Milky Way,Warren,NJ,07059,386000,2160.0,4.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5-Milky-Way-Warren-NJ-07059/39916852_zpid/
+30 Highmount Ave,Warren,NJ,07059,645000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Highmount-Ave-Warren-NJ-07059/39919517_zpid/
+23 Whispering Way,Warren,NJ,07059,950000,4999.0,6.0,4.5,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/23-Whispering-Way-Warren-NJ-07059/39917761_zpid/
+1 Hilltop Ct,Warren,NJ,07059,1870000,6140.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Hilltop-Ct-Warren-NJ-07059/53729408_zpid/
+5 Blazier Rd,Warren,NJ,07059,899000,3832.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Blazier-Rd-Warren-NJ-07059/39916188_zpid/
+46 Geiger Ln,Warren,NJ,07059,2049000,6492.0,6.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/46-Geiger-Ln-Warren-NJ-07059/53729307_zpid/
+128 Mountain Ave,Warren,NJ,07059,NA,NA,NA,NA,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/128-Mountain-Ave-Warren-NJ-07059/39918998_zpid/
+44 Fairfield Ave,Warren,NJ,07059,265000,716.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Fairfield-Ave-Warren-NJ-07059/39918799_zpid/
+15 Briarwood Dr E,Warren,NJ,07059,875000,NA,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Briarwood-Dr-E-Warren-NJ-07059/39915800_zpid/
+145 Town Center Dr,Warren,NJ,07059,272000,968.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/145-Town-Center-Dr-Warren-NJ-07059/39917913_zpid/
+000 Northridge Way,Warren Twp.,NJ,07059,1200000,NA,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/000-Northridge-Way-Warren-Twp-NJ-07059/2096088363_zpid/
+27 Mount Horeb Rd,Warren,NJ,07059,618000,2415.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Mount-Horeb-Rd-Warren-NJ-07059/39915861_zpid/
+19 Helen St,Warren,NJ,07059,915000,3254.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Helen-St-Warren-NJ-07059/39918601_zpid/
+3 Kraushe Rd,Warren,NJ,07059,1150000,5500.0,6.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Kraushe-Rd-Warren-NJ-07059/53729304_zpid/
+33 Valleyview Rd,Warren,NJ,07059,435000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-Valleyview-Rd-Warren-NJ-07059/39919329_zpid/
+15 Loriann Rd,Warren,NJ,07059,510000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Loriann-Rd-Warren-NJ-07059/39919748_zpid/
+17 Darkwood Ct,Warren,NJ,07059,969000,NA,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17-Darkwood-Ct-Warren-NJ-07059/64599578_zpid/
+12 Livingston Ave,Warren,NJ,07059,600000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-Livingston-Ave-Warren-NJ-07059/39918752_zpid/
+37 Old Smalleytown Rd,Warren,NJ,07059,349000,1728.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/37-Old-Smalleytown-Rd-Warren-NJ-07059/39919548_zpid/
+99 Mount Horeb Rd,Warren,NJ,07059,929900,4000.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/99-Mount-Horeb-Rd-Warren-NJ-07059/39916813_zpid/
+63 Old Smalleytown Rd,Warren,NJ,07059,689000,2263.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-Old-Smalleytown-Rd-Warren-NJ-07059/39919667_zpid/
+40 Fairfield Ave,Warren,NJ,07059,480000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Fairfield-Ave-Warren-NJ-07059/39918797_zpid/
+61 Round Top Rd,Warren,NJ,07059,1090000,4766.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Round-Top-Rd-Warren-NJ-07059/55638260_zpid/
+38 Geiger Ln,Warren,NJ,07059,2099000,9264.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/38-Geiger-Ln-Warren-NJ-07059/39917848_zpid/
+3 Park View Dr # 34,Warren,NJ,07059,797000,NA,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/3-Park-View-Dr-34-Warren-NJ-07059/2095226087_zpid/
+25 Harmony Rd,Warren,NJ,07059,929000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-Harmony-Rd-Warren-NJ-07059/39917806_zpid/
+2B Old Dutch Rd Wind Way,Warren Twp.,NJ,07059,495000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2B-Old-Dutch-Rd-Wind-Way-Warren-Twp-NJ-07059/2094590192_zpid/
+32 Morning Glory Rd,Warren,NJ,07059,985000,NA,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Morning-Glory-Rd-Warren-NJ-07059/2097971221_zpid/
+8 Crest Ln,Warren,NJ,07059,875000,2788.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Crest-Ln-Warren-NJ-07059/39918100_zpid/
+44 Mitchell Ave,Warren,NJ,07059,339900,1100.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Mitchell-Ave-Warren-NJ-07059/39918736_zpid/
+27 Bellewood Dr,Warren,NJ,07059,899000,NA,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Bellewood-Dr-Warren-NJ-07059/2094003825_zpid/
+4 Star Dust Dr,Warren,NJ,07059,589750,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Star-Dust-Dr-Warren-NJ-07059/39916845_zpid/
+4 Lexington Dr,Warren,NJ,07059,1489000,6500.0,7.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Lexington-Dr-Warren-NJ-07059/39917860_zpid/
+3 Rambling Brook Ln,Warren,NJ,07059,1200000,5828.0,7.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Rambling-Brook-Ln-Warren-NJ-07059/39917649_zpid/
+141 High Oaks Dr,Warren,NJ,07059,948000,4000.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/141-High-Oaks-Dr-Warren-NJ-07059/39919756_zpid/
+19 Heather Ln,Warren,NJ,07059,899999,4684.0,6.0,4.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Heather-Ln-Warren-NJ-07059/39918979_zpid/
+1 Dock Watch Hollow Rd,Warren,NJ,07059,437000,1592.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Dock-Watch-Hollow-Rd-Warren-NJ-07059/39916311_zpid/
+3 Countryside Ln,Warren,NJ,07059,1150000,NA,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/3-Countryside-Ln-Warren-NJ-07059/2101610961_zpid/
+27 Wychwood Way,Warren,NJ,07059,1150000,4456.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Wychwood-Way-Warren-NJ-07059/39917002_zpid/
+8 Gregory Ln,Warren,NJ,07059,1485000,4477.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8-Gregory-Ln-Warren-NJ-07059/2132358408_zpid/
+8 Willow Woods Trl,Warren,NJ,07059,1799000,7119.0,7.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Willow-Woods-Trl-Warren-NJ-07059/39916920_zpid/
+11 Timber Ridge Dr,Warren,NJ,07059,935000,5500.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Timber-Ridge-Dr-Warren-NJ-07059/39915610_zpid/
+42 Fairfield Ave,Warren,NJ,07059,469000,1600.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/42-Fairfield-Ave-Warren-NJ-07059/39918798_zpid/
+7 Gregory Ln,Warren,NJ,07059,1465000,4529.0,6.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/7-Gregory-Ln-Warren-NJ-07059/39916886_zpid/
+163 Town Center Dr,Warren,NJ,07059,410000,NA,2.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/163-Town-Center-Dr-Warren-NJ-07059/39917919_zpid/
+70 King George Rd,Warren,NJ,07059,995000,850.0,5.0,3.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-King-George-Rd-Warren-NJ-07059/39917587_zpid/
+9 Geiger Ln,Warren,NJ,07059,1649000,6900.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Geiger-Ln-Warren-NJ-07059/39917817_zpid/
+63 Morning Glory Rd,Warren,NJ,07059,549000,1968.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-Morning-Glory-Rd-Warren-NJ-07059/39917462_zpid/
+66 Washington Valley Rd,Warren,NJ,07059,475000,1636.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/66-Washington-Valley-Rd-Warren-NJ-07059/39917295_zpid/
+10 Gregory Ln,Warren,NJ,07059,1650000,4667.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10-Gregory-Ln-Warren-NJ-07059/2093690325_zpid/
+83 Hillcrest Rd,Warren,NJ,07059,475000,1700.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/83-Hillcrest-Rd-Warren-NJ-07059/39919402_zpid/
+113 King George Rd,Warren,NJ,07059,200000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/113-King-George-Rd-Warren-NJ-07059/2097553789_zpid/
+38 Hillcrest Rd,Warren,NJ,07059,465000,NA,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/38-Hillcrest-Rd-Warren-NJ-07059/39919454_zpid/
+4 Cotswold Ln,Warren,NJ,07059,1599000,5930.0,7.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Cotswold-Ln-Warren-NJ-07059/39917221_zpid/
+1 Lenape Trl,Warren,NJ,07059,915000,3202.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Lenape-Trl-Warren-NJ-07059/39916162_zpid/
+91A Stirling Rd,Warren,NJ,07059,419000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/91A-Stirling-Rd-Warren-NJ-07059/2101596040_zpid/
+4 Birchmont Ln,Warren,NJ,07059,895000,2656.0,5.0,4.5,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4-Birchmont-Ln-Warren-NJ-07059/39919534_zpid/
+5 Ponds Edge Ln,Warren,NJ,07059,1199000,4232.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Ponds-Edge-Ln-Warren-NJ-07059/39916175_zpid/
+60 Broadway Rd,Warren,NJ,07059,675000,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-Broadway-Rd-Warren-NJ-07059/39916991_zpid/
+22 Springdale Ln,Warren,NJ,07059,1450000,7800.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Springdale-Ln-Warren-NJ-07059/39917652_zpid/
+18 Elmwood Dr,Warren,NJ,07059,1129000,6663.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Elmwood-Dr-Warren-NJ-07059/39916080_zpid/
+24 Dead River Rd,Warren,NJ,07059,699000,3148.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-Dead-River-Rd-Warren-NJ-07059/39916343_zpid/
+20 Sunrise Dr,Warren,NJ,07059,715000,1920.0,4.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Sunrise-Dr-Warren-NJ-07059/39916882_zpid/
+67 Mount Bethel Rd,Warren,NJ,07059,924000,3200.0,5.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/67-Mount-Bethel-Rd-Warren-NJ-07059/39917778_zpid/
+27 Strawberry Ln,Warren,NJ,07059,1379000,4160.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Strawberry-Ln-Warren-NJ-07059/67541835_zpid/
+1 Park View Dr # 35,Warren,NJ,07059,927000,NA,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/1-Park-View-Dr-35-Warren-NJ-07059/2095280527_zpid/
+5 Corys Brook Rd,Warren,NJ,07059,550000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-Corys-Brook-Rd-Warren-NJ-07059/39918123_zpid/
+69-71 Old Stirling Rd,Warren Twp.,NJ,07059,1200000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-71-Old-Stirling-Rd-Warren-Twp-NJ-07059/2094485843_zpid/
+42 Highmount Ave,Warren,NJ,07059,598000,2168.0,4.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/42-Highmount-Ave-Warren-NJ-07059/39919506_zpid/
+82 Round Top Rd,Warren,NJ,07059,1050000,3800.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/82-Round-Top-Rd-Warren-NJ-07059/39916479_zpid/
+72A Mountain Ave,Warren,NJ,07059,799000,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/72A-Mountain-Ave-Warren-NJ-07059/2095429437_zpid/
+12 Fairfield Ave,Warren,NJ,07059,349000,1514.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-Fairfield-Ave-Warren-NJ-07059/39918719_zpid/
+7 Cotswold Ln,Warren,NJ,07059,1499000,NA,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Cotswold-Ln-Warren-NJ-07059/39917218_zpid/
+63 Mount Bethel Rd,Warren,NJ,07059,689000,1880.0,3.0,2.0,NA,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/63-Mount-Bethel-Rd-Warren-NJ-07059/39917930_zpid/
+26 Park View Dr,Warren,NJ,07059,877000,2392.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/26-Park-View-Dr-Warren-NJ-07059/2094132661_zpid/
+17 Casale Dr,Warren,NJ,07059,1299000,5850.0,6.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17-Casale-Dr-Warren-NJ-07059/39915849_zpid/
+28 Christy Dr,Warren,NJ,07059,739900,2782.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-Christy-Dr-Warren-NJ-07059/39916255_zpid/
+102 King George Rd,Warren,NJ,07059,529000,1566.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/102-King-George-Rd-Warren-NJ-07059/39917730_zpid/
+8 Owens Dr,Warren,NJ,07059,800000,2324.0,4.0,3.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Owens-Dr-Warren-NJ-07059/39915838_zpid/
+7 Washington Ave,Warren,NJ,07059,1199999,3800.0,5.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/7-Washington-Ave-Warren-NJ-07059/39918900_zpid/
+1 Mueller Pl,Warren,NJ,07059,999000,2405.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Mueller-Pl-Warren-NJ-07059/39918903_zpid/
+16 Crosswood Way,Warren,NJ,07059,939900,3008.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Crosswood-Way-Warren-NJ-07059/39915822_zpid/
+91 Stirling Rd,Warren,NJ,07059,949000,3611.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/91-Stirling-Rd-Warren-NJ-07059/39918958_zpid/
+126 Reinman Rd,Warren,NJ,07059,599000,2008.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/126-Reinman-Rd-Warren-NJ-07059/39918842_zpid/
+28 Park View Dr,Warren,NJ,07059,977000,2636.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/28-Park-View-Dr-Warren-NJ-07059/2093759050_zpid/
+7 Glenview Dr,Watchung,NJ,07059,1095000,NA,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Glenview-Dr-Watchung-NJ-07059/2138555634_zpid/
+19 Hillcrest Rd,Warren,NJ,07059,550000,1730.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Hillcrest-Rd-Warren-NJ-07059/39919433_zpid/
+40 Johns Dr,Warren,NJ,07059,1145000,3326.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-Johns-Dr-Warren-NJ-07059/121882283_zpid/
+6 Old Stirling Rd,Warren,NJ,07059,999000,4100.0,5.0,5.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/6-Old-Stirling-Rd-Warren-NJ-07059/39918545_zpid/
+6 Park View Dr # 3,Warren,NJ,07059,887000,NA,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Park-View-Dr-3-Warren-NJ-07059/2095280525_zpid/
+219 Mount Horeb Rd,Warren,NJ,07059,529000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/219-Mount-Horeb-Rd-Warren-NJ-07059/2096650325_zpid/
+2 Midvale Dr,Warren,NJ,07059,1399500,6000.0,5.0,5.0,NA,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/2-Midvale-Dr-Warren-NJ-07059/39917333_zpid/
+15 Gregory Ln,Warren,NJ,07059,1450000,4501.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/15-Gregory-Ln-Warren-NJ-07059/39916883_zpid/
+22 Park View Dr,Warren,NJ,07059,877000,2396.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/22-Park-View-Dr-Warren-NJ-07059/2094132662_zpid/
+24 Park View Dr,Warren,NJ,07059,867000,2387.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-Park-View-Dr-Warren-NJ-07059/2094132660_zpid/
+5 Countryside Ln,Warren,NJ,07059,1449000,4389.0,6.0,7.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5-Countryside-Ln-Warren-NJ-07059/2101610962_zpid/
+67-A Mount Bethel Rd,Warren,NJ,07059,880000,2800.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/67-A-Mount-Bethel-Rd-Warren-NJ-07059/2093927075_zpid/
+4 Raspberry Trl,Warren,NJ,07059,1329000,5078.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Raspberry-Trl-Warren-NJ-07059/39917391_zpid/
+7 Ellsworth Dr,Warren,NJ,07059,829900,2882.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-Ellsworth-Dr-Warren-NJ-07059/39917615_zpid/
+9 Upper Warren Way,Warren,NJ,07059,727000,2332.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Upper-Warren-Way-Warren-NJ-07059/39919327_zpid/
+6 Stonewood Ct,Warren,NJ,07059,929000,3232.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6-Stonewood-Ct-Warren-NJ-07059/39915794_zpid/
+41 Geiger Ln,Warren,NJ,07059,1890000,6000.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-Geiger-Ln-Warren-NJ-07059/64740187_zpid/
+18 Quail Run,Warren,NJ,07059,2699000,7500.0,5.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Quail-Run-Warren-NJ-07059/2098076946_zpid/
+16 Willow Woods Trl,Warren,NJ,07059,1775000,4860.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Willow-Woods-Trl-Warren-NJ-07059/64483179_zpid/
+1 Corys Brook Rd,Warren,NJ,07059,1295000,7000.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Corys-Brook-Rd-Warren-NJ-07059/2094992109_zpid/
+4 Debby Ln,Warren,NJ,07059,849000,3500.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Debby-Ln-Warren-NJ-07059/39916509_zpid/
+Pinewood Ln,Warren,NJ,07059,NA,3741.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138673_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Scheurman Ter,Warren,NJ,07059,NA,3774.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138359_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+King George Rd,Warren,NJ,07059,NA,1459.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154139153_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Robin Rd,Warren,NJ,07059,NA,3824.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138841_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Raspberry Trl,Warren,NJ,07059,NA,4806.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/205120469_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Reinman Rd,Warren,NJ,07059,NA,1550.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/205120524_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Miller Ln,Warren,NJ,07059,NA,2679.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138698_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Upper Warren Way,Warren,NJ,07059,NA,3015.0,NA,2.5,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138719_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Busy Bee Ln,Warren,NJ,07059,NA,1196.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138790_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Geiger Ln,Warren,NJ,07059,NA,4240.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138795_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Highmount Ave,Warren,NJ,07059,NA,2907.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138888_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Valleyview Rd,Warren,NJ,07059,NA,1440.0,NA,1.5,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138901_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Nottingham Way,Warren,NJ,07059,NA,5403.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138956_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Mountain Blvd # A,Warren,NJ,07059,NA,885.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154138964_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Kensington Ct,Warren,NJ,07059,NA,6980.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154139064_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Rockage Rd,Warren,NJ,07059,NA,2556.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154139072_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Robin Rd,Warren,NJ,07059,NA,3323.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154139084_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Sandalwood Dr,Warren,NJ,07059,NA,3216.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154139090_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Cambridge Dr,Warren,NJ,07059,NA,3598.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154139110_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Lenape Trl,Warren,NJ,07059,NA,3202.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/220833101_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
