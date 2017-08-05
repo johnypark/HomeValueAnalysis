@@ -1,6 +1,10 @@
 Home Value Analysis
 ================
 
+### Useful links deal with home value data
+
+-   python [네이버 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver-land-crawling.ipynb) [조인스랜드 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/joins-land-crawling.ipynb) `Ajax` `selenium`
+
 ``` r
 df.all<-read.csv("City_Zhvi_3bedroom.csv")
 df.all%>%str

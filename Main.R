@@ -96,8 +96,8 @@ getPrice_Ncities<-function(Dat_frm, df.region.info){
 #def plotPrice_byRank 
 
 plotPrice_byRank<-function(Dat_frm, Rank){
-
-df.highest15.info<-Dat_frm%>%arrange(-X2017.06)%>%.[Rank,c(df.all.info$CatColnames)]%>%
+  Dat_frm.info<-loadInfdf(Dat_frm )
+  df.highest15.info<-Dat_frm%>%arrange(-X2017.06)%>%.[Rank,c(Dat_frm.info$CatColnames)]%>%
   select(RegionName,State)
 names(df.highest15.info)=c("city","state")
 df.Ncities<-getPrice_Ncities(Dat_frm,df.highest15.info)
@@ -109,3 +109,4 @@ tmp.f<-df.Ncities%>%ggplot(aes(year,avg_price,group=region,colour=region))+
   ggtitle("Rank of home value from %s to %s"%>%sprintf(range(Rank)[1],range(Rank)[2]))
 return(tmp.f)
 }
+
