@@ -1,4 +1,6 @@
 #def Main 
+source("ftns_home_value.R")
+source("required.packages.R")
 #Method str and head
 df.all<-read.csv("City_Zhvi_3bedroom.csv")
 

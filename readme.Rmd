@@ -9,7 +9,10 @@ source("required.packages.R")
 ```
 
 ### Useful links deal with home value data 
-- python [네이버 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver-land-crawling.ipynb) [조인스랜드 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/joins-land-crawling.ipynb) `Ajax` `selenium`
+- python 
+- [네이버 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver-land-crawling.ipynb)
+- [조인스랜드 부동산 crawling](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/joins-land-crawling.ipynb) 
+- `Ajax` `selenium`
 
 
 
@@ -43,9 +46,10 @@ df.region.info
 ```
 
 
-```{r}
+```{r,warning=FALSE}
 
 df.Ncities<-getPrice_Ncities(df.all,df.region.info)
+
 df.Ncities
 ```
 
@@ -59,7 +63,13 @@ df.Ncities%>%ggplot(aes(year,avg_price,group=city,colour=city))+
 ```
 
 
+```{r, warning=FALSE}
+plotPrice_byRank(df.all,c(1:15))
 
+```
+
+
+### functions defined
 ```{r}
 
 #def loadInfodf
@@ -140,9 +150,4 @@ tmp.f<-df.Ncities%>%ggplot(aes(year,avg_price,group=region,colour=region))+
   ggtitle("Rank of home value from %s to %s"%>%sprintf(range(Rank)[1],range(Rank)[2]))
 return(tmp.f)
 }
-```
-
-```{r}
-plotPrice_byRank(df.all,c(1:15))
-
 ```
