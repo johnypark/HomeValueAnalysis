@@ -17,7 +17,7 @@ df.region.info<-data.frame(
 
 df.Ncities<-getPrice_Ncities(df.all,df.region.info)
 
-df.Ncities%>%ggplot(aes(year,avg_price,group=city,colour=city))+
+df.Ncities%>%ggplot(aes(year,med_price,group=city,colour=city))+
   geom_point()+
   geom_line()+
   theme_bw()

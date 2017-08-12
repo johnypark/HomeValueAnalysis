@@ -33,14 +33,14 @@ getPrice_bycity<-function(Dat_frm,region.info){
   )%>%
     mutate(year=lubridate::year(date))%>%
     group_by(year,city,state)%>%
-    summarise(avg_price=mean(price,na.rm=TRUE))
+    summarise(med_price=median(price,na.rm=TRUE))
   return(tmp)
 }
 
 #def plotPrice_bycity
 plotPrice_bycity<-function(Dat_frm,region.info){
   tmp.f<-getPrice_bycity(Dat_frm,region.info)%>%
-    ggplot(data=.,aes(x=year,y=avg_price))+
+    ggplot(data=.,aes(x=year,y=med_price))+
     geom_point()+
     geom_line()+
     ggtitle("%s, %s"%>%sprintf(region.info[1],region.info[2]))
@@ -73,7 +73,7 @@ plotPrice_byRank<-function(Dat_frm, Rank){
   names(df.highest15.info)=c("city","state")
   df.Ncities<-getPrice_Ncities(Dat_frm,df.highest15.info)
   df.Ncities%<>%group_by(city)%>%mutate(region=paste(city,state,sep=", "))
-  tmp.f<-df.Ncities%>%ggplot(aes(year,avg_price,group=region,colour=region))+
+  tmp.f<-df.Ncities%>%ggplot(aes(year,med_price,group=region,colour=region))+
     geom_point()+
     geom_line()+
     theme_bw()+
